@@ -1,0 +1,256 @@
+
+
+body
+    {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font: 13px Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+    background: #c3f96d;
+    text-align: center;
+    }
+a
+    {
+    color: #307082;
+    }
+a:hover
+    {
+    color: #D60808;
+    }
+
+#container
+    {
+    margin: 0 auto;
+    width: 744px;
+    position: relative;
+    background: #fff;
+    padding: 0 0px 0 0px;
+    text-align: left;
+    min-height:600px;
+    }
+
+#pageHeader
+    {
+    position: relative;
+    top: 10px;
+    left: 20px;
+    height: 350px;
+    }
+h1
+    {
+    font-size: 16px;
+    line-height: 200%;
+    }
+h2
+    {
+    font-size: 14px;
+    margin: 0;
+    line-height: 200%;
+    }
+
+h3
+    {
+    font-size: 13px;
+    margin: 0;
+    line-height: 200%;
+    }
+
+#pagetitle{
+    position: absolute;
+    font-size: 40px;
+    margin: 0;
+    top: 20px;
+    left:20px;
+    }
+
+#logo
+    {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 550px;
+    background-image: url("images/bulles-small.png");
+    background-repeat: no-repeat;
+    }
+
+#quotebox{
+  position: absolute;
+  margin: 10px 0px 0px 0px;
+  top: -190px;
+  left:-200px;
+  width:180px;
+  font-size:12px;
+  color: #fff;
+  }
+
+#slogan
+    {
+    font-size: 14px;
+    margin: 0;
+    }
+
+#intro
+    {
+    padding-top: 85px;
+    height: 170px;
+    }
+#headerimage1
+    {
+    font-size: 11px;
+    position: absolute;
+    top: 90px;
+    left: 0px;
+    height: 171px;
+    background-image: url("images/background-left.jpg");
+    background-repeat: no-repeat;
+    margin: 0;
+    width: 223px;
+    color: #fff;
+    font: 12px/150% Trebuchet MS;
+    }
+
+#headerimage2
+    {
+    position: absolute;
+    top: 90px;
+    margin: 0;
+    font-size: 11px;
+    height: 171px;
+    background-image: url("images/felix-501x171.jpg");
+    background-repeat: no-repeat;
+    margin: 0;
+    left: 203px;
+    width: 501px;
+    color: #fff;
+    font: 12px/150% Trebuchet MS;
+    }
+
+#footerimage
+    {
+    height: 87px;
+    background-image: url("images/bottom.jpg");
+    background-repeat: no-repeat;
+    margin: 0;
+    color: #fff;
+    }
+
+
+#preamble, #supportingText
+    {
+    position: relative;
+    top: -92px;
+    margin: 35px 20px 20px 230px;
+    }
+#supportingText p, #preamble p
+    {
+    line-height: 150%;
+    margin: 10px 0 10px 0;
+    }
+
+#menu
+    {
+    position: absolute;
+    top: 295px;
+    left: 0;
+    width: 210px;
+    margin: 0px 20px 20px 20px;
+    }
+
+#lselect ul
+    {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 0 40px;
+    }
+#lselect ul li a
+    {
+    text-decoration: underline;
+    display: block;
+    font-size: 13px;
+    }
+#lselect ul li.c, #lselect ul li a.c
+    {
+    display: inline;
+    font-size: 12px;
+    color: #333;
+    }
+#lselect ul li a.c
+    {
+    text-decoration: none;
+    }
+#lselect ul li a.c:hover
+    {
+    color: #D60808;
+    }
+#lselect ul li
+    {
+    font-size: 12px;
+    border-bottom: 1px solid #E6EEF0;
+    }
+
+#footer
+    {
+    background: url("footer.gif") no-repeat;
+    color: #fff;
+    height: 48px;
+    text-align: right;
+    padding: 0 10px 0 0;
+    line-height: 26px;
+    font-size: 11px;
+    }
+#footer a
+    {
+    color: #fff;
+    text-decoration: none;
+    }
+#footer a:hover
+    {
+    text-decoration: underline;
+    }
+
+.menuseparator
+    {
+    background-color: #d6eceb;
+    height: 1px;
+    width: 200px;
+    }
+
+.menucell
+    {
+    height: 30px;
+    }
+
+.menucell a 
+    {
+    text-decoration: none; 
+    }
+
+.menucell a:hover
+    {
+    text-decoration: underline; 
+    }
+
+
+IMG.illustration {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    color: #888;
+ }
+
+
+.importantbox
+   {
+   border-width: 0px;
+   border-style: solid;
+   background-color: #c3f96d;
+   border-color: #1A2;
+   margin: 1em 0em 1em 0em;
+   padding: 1em 1em 1em 1em;
+
+   }
+
