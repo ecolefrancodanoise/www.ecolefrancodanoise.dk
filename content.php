@@ -40,6 +40,9 @@
 				     <?php        
 				        print_menu($active_nodes, $ms, 0, $pp); //here the menu is actually printed
 				      php?>
+                        <div id="translate-button">
+                        <a href="http://ecolefrancodanoise.dk"><img src="<?echo $bp?>/images/tricolore.png" tag="Site en francais"></a>
+                        </div>
 			</div>
 
 

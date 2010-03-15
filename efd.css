@@ -156,6 +156,14 @@ h3
     margin: 0px 20px 20px 20px;
     }
 
+#translate-button a
+    {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: #fff;
+    }
+
 #lselect ul
     {
     list-style-type: none;
