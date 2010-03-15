@@ -8,7 +8,7 @@
 		<meta name="description" content="Une école biculturelle" />
 		<meta name="robots" content="all" />
 
-		<title>L'école franco-danoise</title>
+		<title>Den dansk-franske Skole</title>
 
 		<script type="text/javascript"></script>
 		<link rel="stylesheet" href="<?echo $bp?>/efd.css" type="text/css" />
@@ -31,7 +31,7 @@
 		<div id="container">
 			<div id="pageHeader">
 				<div id="logo"></div>
-				<div id="pagetitle">L'école franco-danoise</div>
+				<div id="pagetitle">Den dansk-franske Skole</div>
 				<div id="headerimage1"></div>
 				<div id="headerimage2"></div>
 			</div>
