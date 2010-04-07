@@ -4,7 +4,7 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="author" content="Nicolas Guilbert">
 		<meta name="keywords" content="ecole, france, danemark, biculturalite, multiage, groupe de support">
-		<meta name="description" content="Une école biculturelle">
+		<meta name="description" content="En multikulturel og tidssvarende skole">
 		<meta name="robots" content="all">
 
 		<title>L'école franco-danoise</title>
@@ -30,7 +30,7 @@
 				        print_menu($ms, $page_name); //here the menu is actually printed
 				      php?>
                         <div id="translate-button">
-                        <a href="http://ecolefrancodanoise.dk"><img src="<?echo $bp?>/images/tricolore.png" tag="Site en francais"></a>
+                        <a href="http://ecolefrancodanoise.dk"><img src="<?echo $bp?>/images/tricolore.png" alt="Site en francais"></a>
                         </div>
 
 			</div>
