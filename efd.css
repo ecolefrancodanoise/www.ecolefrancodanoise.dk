@@ -220,13 +220,29 @@ h3
     {
     background-color: #d6eceb;
     height: 1px;
-    width: 200px;
     }
 
 .menucell
     {
     height: 30px;
+    width: 160px;
     }
+
+.indentationlevel0
+    {
+    width: 0px;
+    }
+
+.indentationlevel1
+    {
+    width: 0px;
+    }
+
+.indentationlevel2
+    {
+    width: 15px;
+    }
+
 
 .menucell a 
     {
@@ -236,6 +252,19 @@ h3
 .menucell a:hover
     {
     text-decoration: underline; 
+    }
+
+.active_icon
+    {
+    width:20px;
+    background: url("images/small_arrow_right.png") no-repeat left center;
+    }
+
+
+.inactive_icon
+    {
+    width:20px;
+    background: url("images/small_ball.png") no-repeat left center;
     }
 
 
@@ -262,3 +291,8 @@ IMG.illustration {
 
    }
 
+#bottomspace
+   {
+   height: 40px;
+   background: #c3f96d;
+    }

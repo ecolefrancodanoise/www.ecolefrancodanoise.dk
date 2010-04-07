@@ -7,7 +7,7 @@ class menin{ //menu info node
   var $image_name; //name of associated image
   var $subnodes; //array of subnodes
 
-  function menin($v1, $v2, $v3, $v4, $v5){
+  function menin($v1, $v2, $v3, $v4, $v5, $v6){
     $this->content_file_name = $v1;
     $this->menu_item_label = $v2;
     $this->visible = $v3;
@@ -19,32 +19,18 @@ class menin{ //menu info node
 
 
 class print_params{
-  var $cell_sep = "<tr><td colspan=\"2\" class=\"menuseparator\"></td></tr>"; //separator
-  var $sub_men_sep_beg = "<tr><td></td><td><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n";
-  var $sub_men_sep_end = "</table></td></tr>";
-  var $active_image_icon;
-  var $inactive_image_icon;
-  var $indentation;
-  var $cell_width;
+  var $cell_sep = "<tr><td class=\"menuseparator\"></td></tr>"; //separator
 
-  function print_params($v1, $v2, $v3, $v4){
-    $this->active_image_icon = $v1;
-    $this->inactive_image_icon = $v2;
-    $this->indentation = $v3;
-    $this->cell_width = $v4;
-  }
+  function print_menu_item($menin0, $is_active, $depth){
+    if($is_active) $active_icon = "active_icon";
+    else $active_icon = "inactive_icon" ;
 
-  function print_menu_item($menin0, $is_active){
-    if($is_active) $img_name = $this->active_image_icon;
-    else $img_name = $this->inactive_image_icon ;
+    echo "<tr><td><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr>\n";
 
-    echo "<tr>\n";
+    echo "<td class=\"indentationlevel$depth\" ></td><td class=\"$active_icon\"></td>\n
+    <td class=\"menucell\"><a href=\"$menin0->content_file_name\">$menin0->menu_item_label</a></td>\n";
 
-    echo "<td width=\"$this->indentation\"  ><a href=\"$menin0->content_file_name\" >
-    <img src=\"$img_name\" border=\"0\" ALT=\"\"></a></td>\n
-    <td width=\"$this->cell_width\" class=\"menucell\"><a href=\"$menin0->content_file_name\">$menin0->menu_item_label</a></td>\n";
-
-    echo "</tr>\n";
+    echo "</tr></table></td></tr>\n";
 
   }
 }
@@ -74,27 +60,24 @@ function print_menu_recursive($active_branch0, $menin0, $cur_depth, $print_param
   $is_active = in_array($menin0, $active_branch0);
 
   if($menin0->visible){
-    $print_params->print_menu_item($menin0,$is_active);
-    if($cur_depth==0) echo $print_params->cell_sep;
+    $print_params->print_menu_item($menin0,$is_active, $cur_depth);
   }
 
   if($cur_depth==1) echo $print_params->cell_sep;
 
   if($is_active)
     if(count($menin0->subnodes)>0){
-      echo $print_params->sub_men_sep_beg;
       for ($i=0; $i<count($menin0->subnodes); $i++){
         print_menu_recursive($active_branch0, $menin0->subnodes[$i], $cur_depth+1, $print_params);
       }
-      echo $print_params->sub_men_sep_end;
       if($cur_depth==1) echo $print_params->cell_sep;
     }
 }
 
-function print_menu($active_branch0, $menin0, $cur_depth, $print_params){ //actual printing function
+function print_menu($menin0, $page_name){ //actual printing function
 
   echo '<table cellpadding="0" cellspacing="0" border="0" >';
-  print_menu_recursive($active_branch0, $menin0, $cur_depth, $print_params);
+  print_menu_recursive(active_branch($menin0,$page_name ), $menin0, 0, new print_params());
   echo '</table>';
 
 }
