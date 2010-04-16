@@ -4,9 +4,15 @@ Adresse
 =======
 Skolen kommer til at ligge i København (K/Ø/N/NV eller S).
 
-For skoleåret 2010-2011 ligger skolen København K, men vi leder aktivt efter alternativer.
+For skoleåret 2010-2011 ligger skolen i
+<table border="0px" padding="0px">
+<tr><td align="left">Store Kongensgade 36-38</td></tr>
+<tr><td align="left">1264 København K</td></tr>
+</table>
 
-Frem til og med maj 2010 er skolens adresse:
+men vi leder aktivt efter alternativer.
+
+Skolens administrative adresse er pt.
 
 <table border="0px" padding="0px">
 <tr><td align="left">L'école franco-danoise</td></tr>
