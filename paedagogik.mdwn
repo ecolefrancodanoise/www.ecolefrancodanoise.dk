@@ -1,5 +1,11 @@
 Pædagogik
 =========
+
+Pædagogikken følger som udgangspunkt en Freinet-pædagogik, dvs. 
+* at undervisningen tager udgangspunkt i elevernes interesser
+* eleverne føler ansvar og ejerskab for deres egen læring
+* eleverne opdrages til demokrati, ved konkret at anvende demokratiske styreformer i skolen
+
 Tosprogethed, bi- og multikulturalisme
 ---------------------------------------
 Ved at færdes i et tosproget miljø, opnår eleverne dels at beherske to sprog på
