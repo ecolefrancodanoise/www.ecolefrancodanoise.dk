@@ -1,0 +1,170 @@
+Minimizing bunker consumption by choosing the right vessel speeds
+======================================================
+
+The problem described in this tutorial is inspired from a real life example. Once you have completed this tutorial, you should have a good feeling for what a function and a mathematical model is, and why they can be useful.
+<div >
+<img src="linova-splash.jpg" class="illustration" width="380">
+</div>
+A ship has to reach a port 50 nmi (nautical miles) away in 3 hours. We assume
+that the route has been determined (determining it would be another interesting
+optimization problem). We know that the vessel will encounter 2 knots (a knot,
+or kts is the same as nmi per hour, nmi/h) of countercurrent on the first leg of
+20 nmi, and 1 knot of positive current on the last leg of 30nmi.
+
+The bunker (fuel) consumption of the vessel is a function of the speed of the
+vessel, given by the table below:
+
+<table padding="0" border="1" cellspacing="0" align="center"><tr><td> speed (kts) </td><td> consumption
+(tons/day) </td></tr>
+<tr><td> 10 </td><td> 60 </td></tr>
+<tr><td> 15 </td><td> 95 </td></tr>
+<tr><td> 20 </td><td> 140 </td></tr>
+<tr><td> 25 </td><td> 190 </td></tr>
+<tr><td> 30 </td><td> 270 </td></tr>
+</table>
+
+We will call the function B(V), "B of V".
+
+The question is: 
+
+<div class="importantbox">
+At what speed should the vessel sail on each of the two legs to
+use as little bunker as possible?
+</div>
+
+<a href="consumption-curve.png">
+<img src="eleve.jpg"  class="illustration" width="300px">
+</a>
+
+Answering the question, by minimizing a cost function
+----------------------------------------
+
+We can decompose the problem in two smaller ones, which we can solve one after
+the other:
+
+- first we *model* the amount of bunker the vessel will use on its voyage as a
+function. This function will take as input the speed on the first leg and return
+the total bunker consumption on the voyage. Since the function describes a cost,
+it is called a *cost function*. It will have the form of a small computer
+program.
+
+- we can then have the computer calculate the consumption for all relevant
+speeds. These can be plotted, and we can then just pick the speed for which the
+consumption is the lowest. For this calculation we will use a program called
+Octave, a program used around the world by engineers and scientists to perform numerical calculations. It is so-called *free software* and can be downloaded from [the Octave site](http://www.octave.org).
+
+Determining the cost function
+--------------------------
+
+The cost function will take as input the speed on the first leg V<sub>1</sub> and output
+the total cost for the trip. Why not the speed on each of the legs, we do want
+to find both of them, right? 
+
+Because we know that the trip will take 3 hours, so
+the speed on the first leg will determine the speed on the second, V<sub>2</sub>.
+
+Again we decompose the problem, this time by considering that the total
+consumption C is the sum of the consumption on the first leg C<sub>1</sub> plus the
+consumption on the second, C<sub>2</sub>.
+
+To find C<sub>1</sub>, we use the bunker consumption table. The problem is that the table
+is given in tons/day and what we want is just the number of tons spent on the
+first leg. To get over this we need to calculate the time spent on the first
+leg, in hours, and then divide by 24 because there are 24 hours in a day. 
+
+Now
+try and write down the formula: it will look something like C<sub>1</sub> = ... V<sub>1</sub> ...
+B(V<sub>1</sub>), where the dots involve the length of the first leg (20 nmi), the strength
+of the sea current (-2 knots) and the consumption at the speed V<sub>1</sub>, B(V<sub>1</sub>).
+Solution [here](simple/leg_consumption.m), described as the Octave function C = leg_consumption(V).
+
+To find C<sub>2</sub>, we first need to find the speed V<sub>2</sub>, which depends on V<sub>1</sub>, i.e. V<sub>2</sub> is
+a function of V<sub>1</sub>, V<sub>2</sub>(V<sub>1</sub>).
+
+Try and formulate V<sub>2</sub>(V<sub>1</sub>), it should look something like V<sub>2</sub> = ....V<sub>1</sub>.... You can
+start with the expression 20nmi/(V<sub>1</sub>-2kts) + 30nmi/(V<sub>2</sub>+1kts) = 3h. This expresses
+that the total time of the voyage (3h) is equal to the time spent on leg 1,
+20nmi/(V<sub>1</sub>-2kts) plus the time spent on leg 2, 30/(V<sub>2</sub>+1kts). Then isolate V<sub>2</sub> on
+the left hand side of the equation. 
+
+Solution [here](simple/secondspeed.m), in the Octave
+script secondspeed.m
+
+Since we now have an expression for V<sub>2</sub>, we can find C<sub>2</sub> the same way we found C<sub>1</sub>
+from V<sub>1</sub>, and finally add C<sub>1</sub> and C<sub>2</sub> together to find the total consumption. Try
+and write an Octave script totalconsumption.m that does this. Solution in the
+file [totalconsumption.m](simple/totalconsumption.m).
+
+We are now done with the modelling part, that is for given speed V<sub>1</sub>, we have a
+program that calculates the total consumption.
+
+
+Minimizing a cost function, graphically
+---------------------------------------
+Now that we have a fast way to determine the total bunker consumption for any
+given speed V<sub>1</sub>, let's try it out:
+
+try typing 
+
+<pre>
+totalconsumption(17)
+
+totalconsumption(20)
+</pre>
+
+and some other values of your choice, into the Octave terminal window.
+
+If we assume that the vessel's minimal speed is 10 kts and max speed is 30 kts,
+what are the minimal and maximal values for V<sub>1</sub> and V<sub>2</sub>?
+
+What we can do now is to have the computer calculate the bunker consumption for
+all values between 12 and 30 kts, with 0.1 kts interval, for instance with a
+so-called for loop:
+
+<pre>
+consumption_vector = [];       %calculated consumptions
+possible_speeds_V1 = 12:.1:30; %input speeds 
+
+for v=possible_speeds_V1,
+
+  %append the calculated consumption at the end of the vector:
+  consumption_vector= [consumption_vector, totalconsumption(v)]; 
+
+endfor
+
+plot(possible_speeds_V1, consumption_vector)
+</pre>
+
+<a href="consumption-curve.png">
+<img src="consumption-curve.png"  class="illustration" width="300px">
+</a>
+
+<div class="importantbox">
+From the graph, what is the optimal speed V<sub>1</sub>? and V<sub>2</sub>?
+</div>
+
+How much bunker would one save by differentiating the speed (as we have done),
+compared to sailing with the same speed all the way? 
+
+How many tons of CO<sub>2</sub> would be saved?
+
+How many dollars saved if a ton of bunker costs USD 300?
+
+
+If a company is operating 200 of such vessels and assuming 
+
+ - that each vessel spends 80% of its time at sea
+ - and that the sea current and speed conditions described in our example are representative of the global situation
+
+how much CO<sub>2</sub> and how many USD would the company save on a yearly basis?
+
+
+Going further
+-------------
+In real life, we will need to model the voyage speeds with more than 2 legs. 
+
+For 3 legs we can still solve the problem graphically (by making a 3D plot). 
+
+For 4 legs and above it gets more complicated, and we need the computer to tell
+us the optimal speed, that is actually do the optimization, by itself. If you want to explore this in more detail, you can download the code
+[here](bunker_optimization.zip), unzip it and try playing with it in Octave.
