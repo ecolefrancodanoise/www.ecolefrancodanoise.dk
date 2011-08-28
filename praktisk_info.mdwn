@@ -12,32 +12,61 @@ For skoleåret 2010-2011 ligger skolen i
 
 men vi leder aktivt efter alternativer.
 
-Skolens administrative adresse er pt.
-
-<table border="0px" padding="0px">
-<tr><td align="left">L'école franco-danoise</td></tr>
-<tr><td align="left">c/o Guilbert-Assenza</td></tr>
-<tr><td align="left">Nørre Allé 19S 4/4</td></tr>
-<tr><td align="left">2200 København N</td></tr>
-</table>
-
-Klassens sammensætning
-========================
-Skolen starter med en enkelt klasse i august 2010 med max. 20 elever - det maksimale antal elever per lærer.
-
-Den yngste elev er 4 år gammel, den ældste 10.
+Åbningstider
+===========
+Mandag-fredag 08:30 - 16:00
 
 
 Priser
 =====================
 
-<table border="0px" padding="0px">
-<tr><td align="left">Priser per måned:</td><td align="right"></td></td></tr>
-<tr><td align="left">Skolepenge </td><td align="right">1000,-</td></tr>
-<tr><td align="left">SFO</td><td align="right">600,-</td></tr>
-<tr><td align="left">Madordning</td><td align="right">600,-</td></tr>
-</table>
+Skolepenge:2400,-
 
 Indskrivning: 1200,-
 
 Hvis I ønsker at tilmelde jeres barn, så udfyld venligst [tilmeldingsblanketten](documents/fiche-inscription-efd.pdf) , og send den til ovenstående adresse, eller scan+mail den til nicolas@ange.dk  .
+
+
+Ferie
+=====
+<table border="0px">
+<tbody>
+<tr>
+<td align="left">Sommerferie</td>
+<td align="right">fra d. 05-07-2010 til d. 13-08-2010</td>
+</tr>
+<tr>
+<td align="left">Efertårsferie</td>
+<td align="right">fra d. 18-10-2010 til d. 22-10-2010</td>
+</tr>
+<tr>
+<td align="left">Juleferie</td>
+<td align="right">fra d. 22-12-2010 til d. 31-12-2010</td>
+</tr>
+<tr>
+<td align="left">Vinterferie</td>
+<td align="right">fra d. 21-02-2011 til d. 25-02-2011</td>
+</tr>
+<tr>
+<td align="left">Påskeferie</td>
+<td align="right">fra d. 18-04-2011 til d. 25-04-2011</td>
+</tr>
+<tr>
+<td align="left">Store Bededag</td>
+<td align="right">20-05-2011</td>
+</tr>
+<tr>
+<td align="left">Kristi Himmelfart</td>
+<td align="right">fra d. 02-06-2011 til d. 03-06-2011</td>
+</tr>
+<tr>
+<td align="left">Pinse</td>
+<td align="right">fra d. 12-06-2011 til d. 13-06-2011</td>
+</tr>
+<tr>
+<td align="left">Sommerferie</td>
+<td align="right">fra d. 27-06-2011 til d. 13-08-2011</td>
+</tr>
+</tbody>
+</table>
+
