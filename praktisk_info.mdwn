@@ -37,7 +37,7 @@ Ferie
 </tr>
 <tr>
 <td align="left">Efertårsferie</td>
-<td align="right">fra d. 18-10-2010 til d. 22-10-2010</td>
+<td align="right">fra d. 17-10-2010 til d. 21-10-2010</td>
 </tr>
 <tr>
 <td align="left">Juleferie</td>
