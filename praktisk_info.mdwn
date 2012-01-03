@@ -70,3 +70,4 @@ Ferie
 </tbody>
 </table>
 
+Alle dage inklusive.
