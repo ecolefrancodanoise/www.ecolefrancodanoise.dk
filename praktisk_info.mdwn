@@ -33,39 +33,39 @@ Ferie
 <tbody>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 05-07-2010 til d. 13-08-2010</td>
+<td align="right">fra d. 05-07-2011 til d. 13-08-2011</td>
 </tr>
 <tr>
 <td align="left">Efertårsferie</td>
-<td align="right">fra d. 17-10-2010 til d. 21-10-2010</td>
+<td align="right">fra d. 17-10-2011 til d. 21-10-2011</td>
 </tr>
 <tr>
 <td align="left">Juleferie</td>
-<td align="right">fra d. 22-12-2010 til d. 31-12-2010</td>
+<td align="right">fra d. 22-12-2010 til d. 03-01-2012</td>
 </tr>
 <tr>
 <td align="left">Vinterferie</td>
-<td align="right">fra d. 21-02-2011 til d. 25-02-2011</td>
+<td align="right">fra d. 02-04-2012 til d. 09-04-2012</td>
 </tr>
 <tr>
 <td align="left">Påskeferie</td>
-<td align="right">fra d. 18-04-2011 til d. 25-04-2011</td>
+<td align="right">fra d. 02-04-2012 til d. 09-04-2012</td>
 </tr>
 <tr>
 <td align="left">Store Bededag</td>
-<td align="right">20-05-2011</td>
+<td align="right">04-05-2012</td>
 </tr>
 <tr>
 <td align="left">Kristi Himmelfart</td>
-<td align="right">fra d. 02-06-2011 til d. 03-06-2011</td>
+<td align="right">fra d. 17-05-2012 til d. 18-05-2012</td>
 </tr>
 <tr>
 <td align="left">Pinse</td>
-<td align="right">fra d. 12-06-2011 til d. 13-06-2011</td>
+<td align="right">28-05-2012</td>
 </tr>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 27-06-2011 til d. 13-08-2011</td>
+<td align="right">fra d. 02-07-2012 til d. 10-08-2012</td>
 </tr>
 </tbody>
 </table>
