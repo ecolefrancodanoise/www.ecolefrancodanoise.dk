@@ -2,15 +2,12 @@
 
 Adresse
 =======
-Skolen kommer til at ligge i København (K/Ø/N/NV eller S).
+Skolen holder til på 
 
-For skoleåret 2010-2011 ligger skolen i
 <table border="0px" padding="0px">
-<tr><td align="left">Store Kongensgade 36-38</td></tr>
-<tr><td align="left">1264 København K</td></tr>
+<tr><td align="left">Værnedamsvej 12A 1.tv</td></tr>
+<tr><td align="left">1619 København V</td></tr>
 </table>
-
-men vi leder aktivt efter alternativer.
 
 Åbningstider
 ===========
