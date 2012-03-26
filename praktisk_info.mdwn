@@ -42,7 +42,7 @@ Ferie
 </tr>
 <tr>
 <td align="left">Vinterferie</td>
-<td align="right">fra d. 02-04-2012 til d. 09-04-2012</td>
+<td align="right">fra d. 13-02-2012 til d. 17-02-2012</td>
 </tr>
 <tr>
 <td align="left">Påskeferie</td>
