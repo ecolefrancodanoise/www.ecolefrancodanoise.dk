@@ -24,45 +24,49 @@ Indskrivning: 1200,-
 Hvis I ønsker at tilmelde jeres barn, så udfyld venligst [tilmeldingsblanketten](http://blog.ecolefrancodanoise.dk/wp-content/uploads-efd/2010/10/fiche-inscription-efd.pdf) , og send den til ovenstående adresse, eller scan+mail den til nicolas@ange.dk, telefon 4141 8228  .
 
 
-Ferie
+Ferie 2012-2013
 =====
 <table border="0px">
 <tbody>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 05-07-2011 til d. 13-08-2011</td>
+<td align="right">fra d. 29-06-2012 til d. 13-08-2012</td>
 </tr>
 <tr>
 <td align="left">Efertårsferie</td>
-<td align="right">fra d. 17-10-2011 til d. 21-10-2011</td>
+<td align="right">fra d. 15-10-2012 til d. 19-10-2012</td>
 </tr>
 <tr>
 <td align="left">Juleferie</td>
-<td align="right">fra d. 22-12-2010 til d. 03-01-2012</td>
+<td align="right">fra d. 22-12-2010 til d. 04-01-2013</td>
 </tr>
 <tr>
 <td align="left">Vinterferie</td>
-<td align="right">fra d. 13-02-2012 til d. 17-02-2012</td>
+<td align="right">fra d. 11-02-2013 til d. 15-02-2013</td>
 </tr>
 <tr>
 <td align="left">Påskeferie</td>
-<td align="right">fra d. 02-04-2012 til d. 09-04-2012</td>
+<td align="right">fra d. 25-03-2013 til d. 27-03-2013</td>
 </tr>
 <tr>
 <td align="left">Store Bededag</td>
-<td align="right">04-05-2012</td>
+<td align="right">26-04-2013</td>
 </tr>
 <tr>
 <td align="left">Kristi Himmelfart</td>
-<td align="right">fra d. 17-05-2012 til d. 18-05-2012</td>
+<td align="right">fra d. 09-05-2012 til d. 10-05-2012</td>
 </tr>
 <tr>
 <td align="left">Pinse</td>
-<td align="right">28-05-2012</td>
+<td align="right">20-05-2013</td>
+</tr>
+<tr>
+<td align="left">Grundlovsdag</td>
+<td align="right">05-06-2013</td>
 </tr>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 02-07-2012 til d. 10-08-2012</td>
+<td align="right">fra d. 28-06-2013 til d. 12-08-2013</td>
 </tr>
 </tbody>
 </table>
