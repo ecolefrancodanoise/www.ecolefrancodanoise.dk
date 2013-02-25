@@ -1,3 +1,3 @@
 AddType application/x-httpd-php mdwn
 RewriteEngine On
-RewriteRule !^.*\.gif$|\.jpg$|\.png$|\.css$|\.pdf$|\.ico$|\.ppt$|\.html$|\.m$|\.zip$|\.svg$.* handler.php
+RewriteRule !^.*\.gif$|\.jpg$|\.png$|\.css$|\.pdf$|\.ico$|\.ppt$|\.html$|\.m$|\.zip$|\.svg$|\.odt$.* handler.php
