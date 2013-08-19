@@ -10,8 +10,7 @@
 		<title>L'école franco-danoise</title>
 
 		<script type="text/javascript"></script>
-		<link rel="stylesheet" href="<?echo $bp?>/efd.css" type="text/css">
-	
+		<link rel="stylesheet" href="<?php echo $bp?>/efd.css" type="text/css">
 	</head>
 
 	<body>
@@ -24,11 +23,11 @@
 			</div>
 
 			<div id="menu">
-				     <?php        
+				     <?php
                 			include("inc/menu_struct.php");
 		                	include("inc/menu_struct_user.inc");
 				        print_menu($ms, $page_name); //here the menu is actually printed
-				      php?>
+				      ?>
                         <div id="translate-button">
                         <a href="http://ecolefrancodanoise.dk"><img src="<?echo $bp?>/images/tricolore.png" alt="Site en francais"></a>
                         </div>
@@ -44,12 +43,10 @@
 				     $my_text = file_get_contents("$DOCUMENT_ROOT/$page_name.mdwn"); 
 				     $my_html = Markdown($my_text);
 				     echo $my_html;
-				  
 				  }else print "<center>Page not found.<br><br><br><br></center>";
-				  php?>
+				  ?>
 
 			</div>
-  
 			<div id="footerimage"></div>
 			<div id="bottomspace"></div>
 

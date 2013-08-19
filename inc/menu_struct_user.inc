@@ -16,6 +16,5 @@ new menin('','', 0, '', array(
    new menin("$bp/praktisk_info",'Praktisk Info', 1, 'citrus_740x85.jpg', array()),
 
 ));
-php?>
-
+?>
 

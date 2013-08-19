@@ -7,7 +7,7 @@ class menin{ //menu info node
   var $image_name; //name of associated image
   var $subnodes; //array of subnodes
 
-  function menin($v1, $v2, $v3, $v4, $v5, $v6){
+  function menin($v1, $v2, $v3, $v4, $v5){
     $this->content_file_name = $v1;
     $this->menu_item_label = $v2;
     $this->visible = $v3;
@@ -82,4 +82,4 @@ function print_menu($menin0, $page_name){ //actual printing function
 
 }
 
-php?>
+?>
