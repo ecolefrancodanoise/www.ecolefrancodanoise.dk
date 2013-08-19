@@ -30,43 +30,43 @@ Ferie 2012-2013
 <tbody>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 29-06-2012 til d. 13-08-2012</td>
+<td align="right">fra d. 29-06-2013 til d. 11-08-2013</td>
 </tr>
 <tr>
 <td align="left">Efertårsferie</td>
-<td align="right">fra d. 15-10-2012 til d. 19-10-2012</td>
+<td align="right">fra d. 12-10-2013 til d. 20-10-2013</td>
 </tr>
 <tr>
 <td align="left">Juleferie</td>
-<td align="right">fra d. 22-12-2010 til d. 04-01-2013</td>
+<td align="right">fra d. 21-12-2013 til d. 05-01-2014</td>
 </tr>
 <tr>
 <td align="left">Vinterferie</td>
-<td align="right">fra d. 11-02-2013 til d. 15-02-2013</td>
+<td align="right">fra d. 08-02-2014 til d. 16-02-2014</td>
 </tr>
 <tr>
 <td align="left">Påskeferie</td>
-<td align="right">fra d. 25-03-2013 til d. 27-03-2013</td>
+<td align="right">fra d. 12-04-2014 til d. 21-04-2014</td>
 </tr>
 <tr>
-<td align="left">Store Bededag</td>
-<td align="right">26-04-2013</td>
+<td align="left">Store Bededag + fri fredag</td>
+<td align="right">16-05-2014 + 17-05-2014</td>
 </tr>
 <tr>
 <td align="left">Kristi Himmelfart</td>
-<td align="right">fra d. 09-05-2012 til d. 10-05-2012</td>
+<td align="right">fra d. 29-05-2014 til d. 30-05-2014</td>
 </tr>
 <tr>
 <td align="left">Pinse</td>
-<td align="right">20-05-2013</td>
+<td align="right">20-05-2014</td>
 </tr>
 <tr>
 <td align="left">Grundlovsdag</td>
-<td align="right">05-06-2013</td>
+<td align="right">05-06-2014</td>
 </tr>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 28-06-2013 til d. 09-08-2013</td>
+<td align="right">fra d. 29-06-2014 til d. 10-08-2014</td>
 </tr>
 </tbody>
 </table>
