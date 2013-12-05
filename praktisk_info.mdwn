@@ -5,13 +5,13 @@ Adresse
 Skolen holder til på 
 
 <table border="0px" padding="0px">
-<tr><td align="left">Værnedamsvej 12A 1.tv</td></tr>
-<tr><td align="left">1619 København V</td></tr>
+<tr><td align="left">Tagensvej 188</td></tr>
+<tr><td align="left">2400 København NV</td></tr>
 </table>
 
 Åbningstider
 ===========
-Mandag-fredag 08:30 - 16:00
+Mandag-fredag 07:15 - 17:00
 
 
 Priser
