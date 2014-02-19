@@ -14,8 +14,11 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="faelles-model.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="faelles-model.svg"
+   inkscape:export-filename="/var/www/da.ecolefrancodanoise/images/faelles-model.png"
+   inkscape:export-xdpi="43"
+   inkscape:export-ydpi="43">
   <defs
      id="defs4">
     <filter
@@ -41,10 +44,10 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="false"
-     inkscape:window-width="1912"
-     inkscape:window-height="1135"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="853"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -62,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -523,7 +526,7 @@
        sodipodi:cy="422.21194"
        sodipodi:rx="104.04572"
        sodipodi:ry="104.04572"
-       d="m 596.88589,443.17941 a 104.04572,104.04572 0 1 1 0.5167,-2.69035"
+       d="m 596.88589,443.17941 c -11.58001,56.28396 -66.59463,92.52367 -122.87859,80.94366 -56.28396,-11.58001 -92.52368,-66.59462 -80.94367,-122.87859 11.58001,-56.28396 66.59463,-92.52367 122.87859,-80.94366 55.23887,11.36499 91.36711,64.66931 81.46037,120.18824"
        transform="matrix(1.0865316,0,0,1.0865316,-17.071031,225.415)"
        sodipodi:start="0.20291115"
        sodipodi:end="6.4597658"
@@ -536,7 +539,7 @@
        sodipodi:cy="428.92688"
        sodipodi:rx="6.0609155"
        sodipodi:ry="1.0101526"
-       d="m 464.54582,429.13045 a 6.0609155,1.0101526 0 1 1 0.0301,-0.0261"
+       d="m 464.54582,429.13045 c -0.67456,0.54644 -3.8793,0.89829 -7.15797,0.78586 -3.27868,-0.11243 -5.38973,-0.64655 -4.71517,-1.193 0.67457,-0.54644 3.8793,-0.89829 7.15798,-0.78586 3.2178,0.11034 5.32235,0.62786 4.74526,1.16688"
        transform="translate(0,308.2677)"
        sodipodi:start="0.20291115"
        sodipodi:end="6.4597658"
@@ -549,7 +552,7 @@
        sodipodi:cy="382.45987"
        sodipodi:rx="72.730988"
        sodipodi:ry="72.730988"
-       d="m 605.1244,397.11673 a 72.730988,72.730988 0 1 1 0.36119,-1.88062"
+       d="m 605.1244,397.11673 c -8.09476,39.34413 -46.55158,64.67675 -85.89571,56.58198 -39.34412,-8.09476 -64.67674,-46.55158 -56.58197,-85.89571 8.09476,-39.34412 46.55158,-64.67674 85.8957,-56.58197 38.61358,7.94445 63.86827,45.20573 56.94317,84.01508"
        transform="matrix(1.027395,0,0,1.027395,-33.838314,285.16329)"
        sodipodi:start="0.20291115"
        sodipodi:end="6.4597658"
@@ -571,7 +574,7 @@
        sodipodi:cy="486.00052"
        sodipodi:rx="288.39856"
        sodipodi:ry="288.39856"
-       d="m 818.36772,544.11906 a 288.39856,288.39856 0 1 1 1.43221,-7.45722"
+       d="M 818.36772,544.11906 C 786.26974,700.12945 633.77777,800.5803 477.76738,768.48231 321.757,736.38433 221.30615,583.89237 253.40413,427.88198 285.50211,271.87159 437.99408,171.42074 594.00447,203.51872 c 153.11355,31.50199 253.2554,179.25327 225.79546,333.14312"
        transform="matrix(1.1133952,0,0,1.1133952,-77.92787,141.03062)"
        sodipodi:start="0.20291115"
        sodipodi:end="6.4597658"
