@@ -6,6 +6,7 @@ På Den dansk-franske Skole har vi gennem årene udviklet en række praktiske mo
  * formulere klare målsætninger for børn og voksnes læring og øvrige personlige udvikling
  * løbende holde forventninger afstemt takket være en klar grundstruktur
 
+
 Den fælles Model
 ----------------
 Det fokus, der er på en alsidige personlig udvikling, mener vi er en af de store styrker i den nordiske uddannelsesmodel. Ved at sikre barnets selvværd og facilitere opbygningen af tillidsrelationer skabes det grundlag af livsenergi, motivation, nysgerrighed der udgør brændstoffet for den alsidige personlige udvikling.
@@ -22,6 +23,7 @@ En grafisk repræsentation af modellen er vist nedenfor.
 
 Billedet søger at illustrere, hvordan mennesket med sin livsenergi (centrum) og sit alsidige personlige potentiale (strålerne) udfylder rummet, forstærket af den faglige træning (den ydre cirkel) og definerer således sin identitet.
 
+
 Samspillet mellem social og faglig kapital
 ------------------------------------------
 På skolen opfatter vi den personlige og den faglige udvikling som værende ikke kun gavnlige for hinanden, men egentligt nødvendige.
@@ -35,9 +37,18 @@ Omvendt giver faglig dygtighed succesoplevelser, en følelse af at kunne, som ig
 ![Faglig og social kapital kan være indbyrdes forstærkende](../images/kapitalmodel.png)
 
 
+Det er sjovere når man kan
+--------------------------
+En model, der relaterer sig til social/faglig kapital-modellen er Det-er-sjovere-når-man-kan-modellen.
+
+![Les p'tits philosophes, Pomme d'Api, Bayard Education](../images/pourquoi-des-efforts.jpg)
+
+Den udtrykker, at en leg, et spil og aktiviteter i almindelighed, er sjovere, når man mestrer de involverede færdigheder. Det kræver - og retfærdiggør - at man øver sig.
+
+
 Relativ vs. absolut succesopfattelse
 -----------------------------------
-En social kompetence, som vi lægger særlig vægt på er, at kunne glædes over andres succes. Dette kræver en aktiv indsats fra lærernes side, da den naturlige individuelle succesopfattelse som regel foregår relativt til det umiddelbare nærmiljø.  Med andre ord vil ens egen succes ud fra en lokal betragtning opfattes ækvivalent med den andens fiasko.
+En social kompetence, som vi lægger særlig vægt på er, at kunne glædes over andres succes. Dette kræver en aktiv indsats fra lærernes side, da den naturlige individuelle succesopfattelse som regel foregår relativt til det umiddelbare nærmiljø.  Med andre ord vil ens egen succes ud fra en lokal betragtning opfattes ækvivalent med den andens fiasko, jf. det gamle mundheld "egen succes er godt, men andres fiasko er skam heller ikke at foragte".
 
 En sådan jantelovsmekanisme er i sagens natur ikke fremmende for gruppens hverken personlige eller faglige udvikling.
 
@@ -49,4 +60,5 @@ Måden at omgå denne forholdsvis hyppigt forekommende mekanisme på er:
  * opfatte den dygtigere som en hold-medspiller
 
 I denne sammenhæng er det værd at bemærke, at skolens aldersintegrerede organisering gør det uhensigtsmæssigt for børnene at positionere sig stift hiearkisk ift. hinanden. Dette giver det enkelte barn en stor frihed ift. fortolkningen af de andres succeser.
+
 
