@@ -16,6 +16,8 @@ Skolens adresser er Tagensvej 188, 1. 2400 København NV
 --
 Institutionens formål er at drive en friskole efter de til enhver tid gældende love og andre retsregler for friskoler og private grundskoler m.v.
 
+Skolen påbegynder skolevirksomhed pr. august 2014.
+
 Skolens midler
 ==============
 
@@ -32,9 +34,13 @@ Forældrekreds
 =============
 §4
 --
-Forældrekredsen består af forældrene til børn på skolen. Forældrenes rettigheder tilkommer den eller de personer, som har forældremyndighden over barnet, eller barnet i pleje, jf. §38 i lov om friskoler og private grundskoler.
+ 1) forældrekredsen består af de personer, som har forældremyndigheden over elever på skolen,
 
-*Stk. 2* Det påhvler forældrekredsen at føre tilsyn med skolens almindelige virkskomhed, herunder med undervisningen i henhold til "Lov om friskoler og private grundskoler m.v.". Forældrekredsen fastsætter nærmere regler for varetagelsen af tilsynet, jf. §6.
+ 2) forældrenes rettigheder efter vedtægterne tilkommer den eller de personer, som har forældremyndigheden over eleven, og
+
+ 3) skolen kan anse den, der har eleven i pleje, for bemyndiget til at handle på forældremyndighedens indehavers vegne, dog ikke for så vidt angår spørgsmålet om skolegangens begyndelse og varighed, jf. dog stk. 2
+
+*Stk. 2* Det påhviler forældrekredsen at føre tilsyn med skolens almindelige virkskomhed, herunder med undervisningen i henhold til "Lov om friskoler og private grundskoler m.v.". Forældrekredsen fastsætter nærmere regler for varetagelsen af tilsynet, jf. §6.
 
 §5
 --
@@ -44,13 +50,7 @@ Tilsyn
 ======
 §6
 --
-I henhold til §4, stk. 2 udøver forældrekredsen det overordnede tilsyn med skolens almindelige virksomhed. Undervisningen skal stå mål med, hvad der almindeligvis kræves i folkeskolen og forberede eleverne til at leve i et samfund med frihed og folkestyre.
-
-*Stk. 2* Efter bestemmelserne i "Lov om friskkoler og pirvate grundskoler m.v." skal der desuden vælges en eller flere certificerede tilsynsførende til at varetage visse nærmere definerede tilsynsopgaver. Undlader forældrekredsen at vælge tilsynsførende, varetages tilsynet af kommunalbestyrelsen.
-
-*Stk. 3* Vælges den eller de certificerede tilsynsførende af forældrekredsen, skal dette ske for højst fire år ad gangen. Valget skal ske i overensstemmelse med bestemmelserne i undervisningsministeriets bekendtgørelse om valg af tilsynsførende (bekg. nr 807 af 2002),
-
-*Stk. 4* Den eller de eksterne tilsynsførende, henholdsvis kommunalbestyrelsen, afgiver hvert år en skriftlig erklæring til skolens bestyrelse og forældrekredsen. Så vidt muligt uddyber den eller de tilsynsførende sin (deres) skriftlige erklæring ved en mundtlig beretning på skolens ordinære forældrekredsmøde. I øvrigt skal tilsynsførende virke i henhold til de bestemmelser, der til enhver tid er fastsat i "Lov om friskoler og private grundskoler m.v. ".
+Skolen følger de til enhver tid gældende regler om tilsyn/tilsynsførende
 
 Forældrekredsmødet
 =================
@@ -92,7 +92,7 @@ Bestyrelsens sammensætning
 ==========================
 §10
 ---
-Bestyrelsen består af fem medlemmer, der alle vælges på det ordinære forældrekredsmøde af forældrekredsen. Mindst to af bestyrelsens medlemmer skal tilhøre forældrekredsen. Bestyrelsens flertal skal bestå af medlemmer af forældrekredsen.
+Bestyrelsen består af fem medlemmer, der alle vælges på det ordinære forældrekredsmøde af forældrekredsen. Tre af bestyrelsens medlemmer skal tilhøre forældrekredsen. Bestyrelsens flertal skal bestå af medlemmer af forældrekredsen.
 
 *Stk. 2* Bestyrelsens medlemmer vælges for to år og afgår skiftevis med to og tre årlig. Første forældrekredsmøde vælger to medlemmer for en to-årig periode, to medlemmer for en tre-årig periode og et medlem for en et-årig periode.
 
@@ -102,7 +102,11 @@ Bestyrelsen består af fem medlemmer, der alle vælges på det ordinære foræld
 
 *Stk. 5* Bestyrelsesmedlemmer kan afsættes af forældrekredsmødet i funktionsperioden. Beslutningen træffes ved almindelig stemmeflerhed, jf. §7, stk. 4. Denne bestemmelse gælder både for bestyrelsesmedlemmer valgt af men ikke blandt forældrekredsens medlemmer og for bestyrelsesmedlemmer valgt af og blandt forældrekredsens medlemmer.
 
-*Stk. 6* Bestyrelsen bør så vidt muligt have en afbalanceret sammensætning af kvinder og mænd, jf. lov om ligestilling af kvinder og mænd.
+*Stk. 6* Et bestyrelsesmedlem udtræder af bestyrelsen øjeblikkeligt, hvis medlemmet ikke opfylder de betingelser for medlemskab af bestyrelsen, som følger af friskolelovens § 5 eller af vedtægterne.
+
+*Stk. 7* t medlems udtræden i funktionsperioden indebærer, at suppleanten indtræder for resten af funktionsperioden, eller at der, hvis en suppleant ikke kan indtræde, hurtigst muligt skal udpeges eller vælges et nyt medlem for resten af perioden
+
+*Stk. 8* Bestyrelsen bør så vidt muligt have en afbalanceret sammensætning af kvinder og mænd, jf. lov om ligestilling af kvinder og mænd.
 
 
 §11
@@ -111,13 +115,22 @@ Skolens leder, lærere og andet personale ved institutionen kan ikke være medle
 
 *Stk. 2* Bestyrelsesmedlemmer skal være myndige og registere ti CPR med bopæl i Danmark.
 
-*Stk. 3* Bestyrelsesmedlemmer hæfter ikke personligt for skolens gæld, men kan blive ansvarlige efter dansk rets almindelige erstatningsregler. De kan ikke modtage honorar af skolens midler for varetagelse af hvervet som bestyrelsesmedlem.
+*Stk. 3* Bestyrelsesmedlemmer hæfter ikke personligt for skolens gæld, men kan blive ansvarlige efter dansk rets almindelige erstatningsregler. De kan ikke modtage honorar eller lignende betaling af skolens midler for varetagelse af hvervet som bestyrelsesmedlem.
 
 *Stk. 4* Skolens leder deltager normalt i bestyrelsens møder uden stemmeret. Ved behandling af sager, der vedrører skolelederen, kan bestyrelsen bestemme at suspendere skolelederens mødedeltagelse.
 
 Bestyrelsens arbejde
 ====================
+
 §12
+--
+Bestyrelsen
+1) varetager den overordnede ledelse af skolen,
+2) har ansvaret for skolens økonomi og drift”.
+
+*Stk. 2* Bestyrelsen skal i tilfælde af uoverensstemmelse mellem lovgivningen og vedtægternes ordlyd følge lovgivningen og har ansvaret for, at skolens vedtægter til enhver tid er i overensstemmelse med lovgivningen.
+
+§13
 --
 Bestyrelsen konstituerer sig selv. Formand og næstformand vælges af bestyrelsens midte. Næstformanden træder i formandens sted ved formandens forfald. Bestyrelsen fastsætter selv sin forretningsorden, herunder bestemmelse om, hvordan indkaldelse til bestyrelsens møder skal ske.
 
@@ -131,9 +144,9 @@ Bestyrelsen konstituerer sig selv. Formand og næstformand vælges af bestyrelse
 
 *Stk. 6* Bestyrelsesmedlemmer er ikke ved udøvelsen af bestyrelseshvervet undergivet beslutninger truffet af den organisation, institution, forening eller lignende, som var valgt eller udpeget den pågældende, jf. Undervisningsministeriets bekendtgørelse nr. 182 af 22. marts 2004, §4, stk. 7.
 
-§13
+§14
 ---
-Personer, der er omfattet af §5, stk. 6 og 7 i lov om friskoler og private grundskoler, er generelt inhabile og kan ikke være medlem af bestyrelsen.
+Bestyrelsesmedlemmerne skal opfylde friskolelovens krav om inhabilitet.
 
 *Stk. 2* For bestyrelsen, lederen og andre ansatte ved skolen samt for den eller de tilsynsførende, jf. §6, stk. 2, gælder bestemmelserne i forvaltningsloven kap. 2 om inhabilitet og kap. 8 om tavshedspligt m.v.
 
@@ -145,7 +158,7 @@ Personer, der er omfattet af §5, stk. 6 og 7 i lov om friskoler og private grun
 
 *Stk. 6*  Det påhviler bestyrelsen at give Undervisningsministeriet og de kommuner, hvor eleverne er hjemmehørende, meddelelse om skolens nedlæggelse, ligesom ministeriet skal orienteres af bestyrelsen, hvis skolen standser sine betalinger, begæres konkurs, eller der i øvrigt er fare for, at skolens virksomhed må indstilles. Hvis bestyrelsen træffer beslutning om nedlæggelse af skolen, påhviler det bestyrelsen at orientere forældrekredsen herom, umiddelbart efter bestyrelsens beslutning om nedlæggelse er truffet, og om grundlaget herfor.
 
-*Stk. 8* Bestyrelsen fastsætter sammen med skolelederen skolens værdigrundlag og retningslinjer for optagelse af elever. Beslutning om at ændre grundlæggende elementer i værdigrundlaget kan dog kun træffes på forældrekredsmøde.
+*Stk. 8* Bestyrelsen fastsætter sammen med skolelederen skolens værdigrundlag og retningslinjer for optagelse af elever.
 
 *Stk. 9* Bestyrelsen træffer i øvrigt beslutning om ethvert andet spørgsmål om skolen, som bestyrelsen selv ønsker at træffe beslutning om, jf. dog §7, stk. 1. Bestyrelsen kan vælge at høre forældrekredsen inden den træffer beslutning.
 
@@ -153,7 +166,7 @@ Personer, der er omfattet af §5, stk. 6 og 7 i lov om friskoler og private grun
 
 §15
 ---
-Bestyrelsen fastsætter de nærmere regler for retten til indsigt i skolens forhold, jf. dog §13, stk. 2. Forældre til elever og fastansatte ved skolen har dog altid ret til at få kendskab til budgetter, regnskaber og revisionsprotokol, som er godkendt i bestyrelsen. Bestyrelsen kan udstrække den ret til andre. Oplysninger, der er omfattet af bestemmelserne om tavshedspligt i forvaltningsloven, kan dog ikke videregives.
+Bestyrelsen fastsætter de nærmere regler for retten til indsigt i skolens forhold, jf. dog §13, stk. 2. Forældre til elever og fastansatte ved skolen har dog altid ret til at få kendskab til budgetter og regnskaber, som er godkendt i bestyrelsen og revisionsprotokol. Bestyrelsen kan udstrække den ret til andre. Oplysninger, der er omfattet af bestemmelserne om tavshedspligt i forvaltningsloven, kan dog ikke videregives.
 
 Tegningsret
 ===========
@@ -167,7 +180,7 @@ Skoleleder
 ---
 Skolens leder ansættes og afskediges af bestyrelsen. Beslutningen skal dog prøves på et forældrekredsmøde, hvis ét enkelt bestyrelsesmedlem kræver det. Her kræves mindst halvdelen af de afgivne stemmer til konfirmering af bestyrelsens indstilling. Skolelederen har over for Undervisningsministeriet, forældrekredsen og skolens bestyrelse ansvaret fo rden daglige og den pædagogiske ledelse af skolen i henhold til gældende love, bekendtgørelser og ministerielle forskrifter.
 
-*Stk. 2* Efter bestyrelsens retningslinier foreslår skolelederen skolens daglige administration og personaleledelse.
+*Stk. 2* Efter bestyrelsens retningslinier forestår skolelederen skolens daglige administration og personaleledelse.
 
 *Stk. 3* Bestyrelsen kan i øvrigt træffe beslutning om, at skolelederen i nærmere fastlagt omfang og under bestyrelsens ansvar bemyndiges til at udføre overordnede ledelsesfunktioner, når dette er nødvendigt for at opnå en hensigsmæssig daglig ledelse.
 
@@ -199,13 +212,23 @@ Vedtægtsændring
 ---
 Ændringer i vedtægterne kan ske efter vedtagelse på to efter hinanden følgende bestyrelsesmøder med mindst 14 dages mellemrum. Forældrekredsen skal dog høres om vedtægtsændringen på et forældrekredsmøde, hvis ét enkelt bestyrelsesmedlem kræver det.
 
+*Stk. 4* Vedtægtsændringer gælder ikke, medmindre de
+
+1) indeholder oplysning om, hvem der er formand og næstformand  bestyrelsen,
+
+2) er underskrevet af samtlige bestyrelsesmedlemmer,
+
+3) angiver bestyrelsesmedlemmernes navn og adresse med let læselig skrift, f.eks. maskinskrift, og
+
+4) er offentliggjort på skolens hjemmeside med angivelse af, hvornår offentliggørelsen har fundet sted, og hvornår vedtægtsændringerne er vedtaget af bestyrelsen eller af bestyrelsen og forældrekredsmødet i forening.
+
 Nedlæggelse
 ===========
 §21
 ---
 Beslutning om nedlæggelse af skolen træffes af bestyrelsen. Forud for beslutningen skal bestyrelsen høre forældrekredsen.
 
-*Stk. 2* Ophører institutionen med at drive skolevirksomhed i overensstemmelse med formålsbestemmelsen, skal den nedlægges.
+*Stk. 2* Ophører institutionen med at drive skolevirksomhed i overensstemmelse med friskoleloven, skal den nedlægges.
 
 *Stk. 3* I tilfælde af skolens nedlæggelse påhviler det den siddende bestyrelse at fungere videre, indtil den økonomiske afvikling af skolens aktiver og passiver er tilendebragt efter gældende regler, eller er overgået til behandling i skifteretten. Bestyrelsen har ansvaret for bevarelsen af skolens aktiver og for, at den økonomiske opgørelse i anledning af skolens nedlæggelse foretages efter gældende regler, samt at skolens nettoformue anvendes i overensstemmelse med vedtægten.
 
