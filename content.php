@@ -11,6 +11,8 @@
 
 		<script type="text/javascript"></script>
 		<link rel="stylesheet" href="<?php echo $bp?>/efd.css" type="text/css">
+                <link rel="shortcut icon" href="<?php echo $bp?>/images/bulles.ico" type="image/x-icon" />
+                <link rel="icon" href="<?php echo $bp?>/images/bulles.ico" type="image/x-icon" />
 	</head>
 
 	<body>
