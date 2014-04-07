@@ -50,13 +50,13 @@ Tilsyn
 ======
 §6
 --
-Skolen følger de til enhver tid gældende regler om tilsyn/tilsynsførende
+Skolen følger de til enhver tid gældende regler om tilsyn/tilsynsførende.
 
 Forældrekredsmødet
 =================
 §7
 --
-Forældrekredsmødet består udelukkende af forældrekredsen. Bestyrelsen er ansvarlig for, at det udelukkende er medlemmer af forældrekredsen, der afgiver stemmer. Se endvidere §14, stk. 8, §17, stk. 1 og §19, stk. 3 om forældrekredsmødets beføjelser
+Forældrekredsmødet består udelukkende af forældrekredsen. Bestyrelsen er ansvarlig for, at det udelukkende er medlemmer af forældrekredsen, der afgiver stemmer. Se endvidere §14, stk. 8, §17, stk. 1 og §19, stk. 3 om forældrekredsmødets beføjelser.
 
 *Stk. 2* Bestyrelsen er ansvarlig for, at forældrekredsen indkaldes til forældrekredsmødet. Bestyrelsen indkalder til ordinært forældrekredsmøde hvert år på skolen eller på et andet egnet sted i hjemstedskommunen. Forældrekredsmødet afholdes indenfor perioden 1. april til 15. maj. Dog afholdes første ordinære forældrekredsmøde indenfor 2 måneder efter Undervisningsministeriets endelige godkendelse af vedtægterne foreligger, jf. §22. Forældrekredsmødet indkaldes per e-mail til forældrekredsens medlemmer, afsendt mindst 14 dage før forældrekredsmødet. Indkaldelsen skal indeholde dagsorden, der mindst skal omfatte følgende punkter:
 
