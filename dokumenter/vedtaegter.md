@@ -40,7 +40,7 @@ Forældrekreds
 
  3) skolen kan anse den, der har eleven i pleje, for bemyndiget til at handle på forældremyndighedens indehavers vegne, dog ikke for så vidt angår spørgsmålet om skolegangens begyndelse og varighed, jf. dog stk. 2
 
-*Stk. 2* Det påhviler forældrekredsen at føre tilsyn med skolens almindelige virkskomhed, herunder med undervisningen i henhold til "Lov om friskoler og private grundskoler m.v.". Forældrekredsen fastsætter nærmere regler for varetagelsen af tilsynet, jf. §6.
+*Stk. 2* Det påhviler forældrekredsen at føre tilsyn med skolens almindelige virkskomhed i henhold til "Lov om friskoler og private grundskoler m.v.". Forældrekredsen fastsætter nærmere regler for varetagelsen af tilsynet, jf. §6.
 
 §5
 --
@@ -140,7 +140,7 @@ Bestyrelsen konstituerer sig selv. Formand og næstformand vælges af bestyrelse
 
 *Stk. 4* Formanden leder forhandlingerne og afstemningerne og drager omsorg for, at beslutningerne indføres i en beslutningsprotokol. Efter hvert møde underskrives protokollen af mødets deltagere. Ethvert bestyrelsesmedlem er berettiget til kort at få sin afvigende mening indført i beslutningsprotokollen. Konstateret inhabilitet skal endvidere indføres i protokollen. Formanden drager omsorg for udførelsen af de trufne beslutninger.
 
-*Stk. 5* Bestyrelsen er beslutningsdygtig, når mindst halvdelen af medlemmerne er mødt personligt frem. Der kan ikke stemmes ved fuldmagt eller brev. Beslutninger træffes ved stemmeflerhed. I tilfælde af stemmelighed er formandens stemme afgørende. I tilfælde af formandens forfald er næstformandens stemme udslagsgivende.
+*Stk. 5* Bestyrelsen er beslutningsdygtig, når mindst halvdelen af medlemmerne er mødt personligt frem. Der kan ikke stemmes ved fuldmagt eller brev. Beslutninger træffes ved almindelig stemmeflerhed. I tilfælde af stemmelighed er formandens stemme afgørende. I tilfælde af formandens forfald er næstformandens stemme udslagsgivende.
 
 *Stk. 6* Bestyrelsesmedlemmer er ikke ved udøvelsen af bestyrelseshvervet undergivet beslutninger truffet af den organisation, institution, forening eller lignende, som var valgt eller udpeget den pågældende, jf. Undervisningsministeriets bekendtgørelse nr. 182 af 22. marts 2004, §4, stk. 7.
 
@@ -156,7 +156,7 @@ Bestyrelsesmedlemmerne skal opfylde friskolelovens krav om inhabilitet.
 
 *Stk. 5* Bestyrelsen ansætter og afskediger skolens leder og andet personale. Bestyrelsen kan helt eller delvist delegere kompetencen til at ansætte og afskedige skolens personale til skolens leder.
 
-*Stk. 6*  Det påhviler bestyrelsen at give Undervisningsministeriet og de kommuner, hvor eleverne er hjemmehørende, meddelelse om skolens nedlæggelse, ligesom ministeriet skal orienteres af bestyrelsen, hvis skolen standser sine betalinger, begæres konkurs, eller der i øvrigt er fare for, at skolens virksomhed må indstilles. Hvis bestyrelsen træffer beslutning om nedlæggelse af skolen, påhviler det bestyrelsen at orientere forældrekredsen herom, umiddelbart efter bestyrelsens beslutning om nedlæggelse er truffet, og om grundlaget herfor.
+*Stk. 6*  Det påhviler bestyrelsen at give Undervisningsministeriet og de kommuner, hvor eleverne er hjemmehørende, meddelelse om skolens nedlæggelse, ligesom ministeriet skal orienteres omgående af bestyrelsen, hvis skolen standser sine betalinger, begæres konkurs, eller der i øvrigt er fare for, at skolens virksomhed må indstilles. Hvis bestyrelsen træffer beslutning om nedlæggelse af skolen, påhviler det bestyrelsen at orientere forældrekredsen herom, umiddelbart efter bestyrelsens beslutning om nedlæggelse er truffet, og om grundlaget herfor.
 
 *Stk. 8* Bestyrelsen fastsætter sammen med skolelederen skolens værdigrundlag og retningslinjer for optagelse af elever.
 
