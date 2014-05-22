@@ -7,10 +7,10 @@ Hjemsted og formål
 
 §1
 --
-Den dansk-franske Skole er en selvejende og uafhængig uddannelsesinstitution med hjemstedi Københavns Kommune. Skolen er oprettet 5. august 2013.
+Den dansk-franske Skole er en selvejende og uafhængig uddannelsesinstitution med hjemsted i Københavns Kommune. Skolen er oprettet 5. august 2013.
 Skolens navn er "Den dansk-franske Skole af 2014".
-Skolens CVR er XX XX XX XX
-Skolens adresser er Tagensvej 188, 1. 2400 København NV
+Skolens CVR er 35 76 77 54.
+Skolens adresse er Tagensvej 188, 1. 2400 København NV
 
 §2
 --
