@@ -14,7 +14,9 @@ new menin('','', 0, '', array(
      new menin("$bp/undervisningsplaner",'Undervisningplaner', 1, 'rtg1_740x85.jpg', array()),
      new menin("$bp/modeller",'Modeller', 1, 'rtg1_740x85.jpg', array())
    )),
-   new menin("$bp/praktisk_info",'Praktisk Info', 1, 'citrus_740x85.jpg', array()),
+   new menin("$bp/praktisk_info",'Praktisk Info', 1, 'citrus_740x85.jpg', array(
+     new menin("$bp/documenter/vedtaegter",'Vedtægter', 1, 'rtg1_740x85.jpg', array())
+   )),
 
 ));
 ?>
