@@ -57,12 +57,12 @@ Ferie 2012-2013
 <td align="right">fra d. 14-05-2015 til d. 15-05-2015</td>
 </tr>
 <tr>
-<td align="left">Grundlovsdag</td>
-<td align="right">05-06-2015</td>
-</tr>
-<tr>
 <td align="left">2. pinsedag</td>
 <td align="right">25-05-2015</td>
+</tr>
+<tr>
+<td align="left">Grundlovsdag</td>
+<td align="right">05-06-2015</td>
 </tr>
 <tr>
 <td align="left">Sommerferie</td>
