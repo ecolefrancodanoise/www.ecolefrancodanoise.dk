@@ -38,7 +38,7 @@ Ferie 2014-2015
 </tr>
 <tr>
 <td align="left">Juleferie</td>
-<td align="right">fra d. 23-12-2014 til d. 02-01-2015</td>
+<td align="right">fra d. 22-12-2014 til d. 02-01-2015</td>
 </tr>
 <tr>
 <td align="left">Vinterferie</td>
