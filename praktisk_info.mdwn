@@ -49,8 +49,8 @@ Ferie 2014-2015
 <td align="right">fra d. 30-03-2015 til d. 06-04-2015</td>
 </tr>
 <tr>
-<td align="left">Store Bededag + fri fredag</td>
-<td align="right">16-05-2015 + 17-05-2015</td>
+<td align="left">Store Bededag</td>
+<td align="right">01-05-2015</td>
 </tr>
 <tr>
 <td align="left">Kristi Himmelfart</td>
