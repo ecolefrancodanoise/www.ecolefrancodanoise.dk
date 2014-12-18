@@ -53,8 +53,8 @@ Ferie 2014-2015
 <td align="right">01-05-2015</td>
 </tr>
 <tr>
-<td align="left">Kristi Himmelfart</td>
-<td align="right">fra d. 14-05-2015 til d. 15-05-2015</td>
+<td align="left">Dagen efter Kristi Himmelfart</td>
+<td align="right">15-05-2015</td>
 </tr>
 <tr>
 <td align="left">2. pinsedag</td>
@@ -66,7 +66,7 @@ Ferie 2014-2015
 </tr>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 26-06-2015 til d. 09-08-2015</td>
+<td align="right">fra d. 29-06-2015 til d. 09-08-2015</td>
 </tr>
 </tbody>
 </table>
