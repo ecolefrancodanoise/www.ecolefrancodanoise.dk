@@ -1,5 +1,8 @@
-Undervisningsplaner
+Læreplaner
 ==================
+
+Skolen
+------
 Skolens undervisningsplaner, delmål og slutmål følger som udgangspunkt Undervisningsministeriets Fælles Mål.
 
 Egen evaluering af skolens undervisning 2011-2012 findes [her](dokumenter/evaluering-efd-2011-2012.pdf)
@@ -8,3 +11,14 @@ Konklusion af kommunalt tilsyn april 2012 [her](dokumenter/Tilsyn_DDFS_maj_2012_
 
 Folkeskolens afgangsprøve afholdes efter 9. klasse.
 
+Børnehaven
+----------
+[Årsplan/læreplan](dokumenter/tilsyn-bh/laereplan-bh-14-15.pdf)
+
+[Årsrapport 2014](dokumenter/tilsyn-bh/Aarsrapport_2014.pdf)
+
+[Tilsyn 27.05.2014](dokumenter/tilsyn-bh/Tilsyn_27.05.2014.pdf)
+
+[Tilsyn 24.10.2014](dokumenter/tilsyn-bh/Tilsyn_dansk_franske_bhv._24.10.14.pdf)
+
+[Tilsyn 10.12.2014](dokumenter/tilsyn-bh/Tilsyn_den_dansk-franske_bhv.2014-12-10.pdf)
