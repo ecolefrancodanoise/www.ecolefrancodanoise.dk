@@ -30,7 +30,7 @@ Ferie 2014-2015
 <tbody>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 30-06-2014 til d. 10-08-2014</td>
+<td align="right">fra d. 27-06-2014 til d. 10-08-2014</td>
 </tr>
 <tr>
 <td align="left">Eferårsferie</td>
