@@ -30,43 +30,43 @@ Ferie 2014-2015
 <tbody>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 27-06-2014 til d. 10-08-2014</td>
+<td align="right">fra d. 27-06-2015 til d. 09-08-2015</td>
 </tr>
 <tr>
 <td align="left">Eferårsferie</td>
-<td align="right">fra d. 13-10-2014 til d. 17-10-2014</td>
+<td align="right">fra d. 12-10-2015 til d. 16-10-2015</td>
 </tr>
 <tr>
 <td align="left">Juleferie</td>
-<td align="right">fra d. 22-12-2014 til d. 02-01-2015</td>
+<td align="right">fra d. 21-12-2015 til d. 03-01-2016</td>
 </tr>
 <tr>
 <td align="left">Vinterferie</td>
-<td align="right">fra d. 09-02-2015 til d. 13-02-2015</td>
+<td align="right">fra d. 08-02-2016 til d. 12-02-2016</td>
 </tr>
 <tr>
 <td align="left">Påskeferie</td>
-<td align="right">fra d. 30-03-2015 til d. 06-04-2015</td>
+<td align="right">fra d. 20-03-2016 til d. 28-03-2016</td>
 </tr>
 <tr>
 <td align="left">Store Bededag</td>
-<td align="right">01-05-2015</td>
+<td align="right">22-04-2016</td>
 </tr>
 <tr>
 <td align="left">Dagen efter Kristi Himmelfart</td>
-<td align="right">15-05-2015</td>
+<td align="right">15-05-2016</td>
 </tr>
 <tr>
 <td align="left">2. pinsedag</td>
-<td align="right">25-05-2015</td>
+<td align="right">20-05-2016</td>
 </tr>
 <tr>
 <td align="left">Grundlovsdag</td>
-<td align="right">05-06-2015</td>
+<td align="right">05-06-2016</td>
 </tr>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 29-06-2015 til d. 09-08-2015</td>
+<td align="right">fra d. 27-06-2016 til d. 12-08-2016</td>
 </tr>
 </tbody>
 </table>
