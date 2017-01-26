@@ -1,3 +1,6 @@
+17 principes pratiques
+======================
+
 Au fil des années, nous avons fait l'expérience qu'il est possible, avec des principes simples, d'établir rapidement un environnement qui fonctionne bien, qui est incluant/tolérant ("rummelig") et propice au développement personnel. Aussi, lorsque le groupe d'enfant fonctionne, c'est une des meilleures expériences qui soit.
 
 Ici suivent les principes les plus importants que nous appliquons:
