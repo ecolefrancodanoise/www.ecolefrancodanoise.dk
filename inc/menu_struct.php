@@ -4,15 +4,13 @@ class menin{ //menu info node
   var $content_file_name;//the filename corresponding to the node
   var $menu_item_label;//the label on the menu item
   var $visible;//is the node visible or not in the menu
-  var $image_name; //name of associated image
   var $subnodes; //array of subnodes
 
-  function menin($v1, $v2, $v3, $v4, $v5){
+  function menin($v1, $v2, $v3, $v4){
     $this->content_file_name = $v1;
     $this->menu_item_label = $v2;
     $this->visible = $v3;
-    $this->image_name = $v4;
-    $this->subnodes = $v5; //array of subnodes
+    $this->subnodes = $v4; //array of subnodes
   }
 
 }
