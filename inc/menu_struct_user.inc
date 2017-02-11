@@ -16,7 +16,8 @@ new menin('','', 0, '', array(
    )),
    new menin("$bp/praktisk_info",'Praktisk Info', 1, 'citrus_740x85.jpg', array(
      new menin("$bp/dokumenter/vedtaegter",'Vedtægter Skole', 1, 'rtg1_740x85.jpg', array()),
-     new menin("$bp/dokumenter/vedtaegter-dfbh-2015-06-06.pdf",'Vedtægter BH', 1, 'rtg1_740x85.jpg', array())
+     new menin("$bp/dokumenter/vedtaegter-dfbh-2015-06-06.pdf",'Vedtægter BH', 1, 'rtg1_740x85.jpg', array()),
+     new menin("http://www.findsmiley.dk/559197",'Køkkensmiley', 1, 'rtg1_740x85.jpg', array())
    )),
 
 ));
