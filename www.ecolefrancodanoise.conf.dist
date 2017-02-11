@@ -1,0 +1,15 @@
+<VirtualHost *:80>
+    ServerName www.ecolefrancodanoise.dk
+    DocumentRoot /var/www/da.ecolefrancodanoise
+    ErrorLog /var/log/apache2/www.ecolefrancodanoise/error.log
+    CustomLog /var/log/apache2/www.ecolefrancodanoise/access.log combined
+
+        <Directory "/var/www/da.ecolefrancodanoise"> 
+                AllowOverride All 
+                Options Indexes FollowSymLinks MultiViews
+                Order allow,deny 
+                Allow from all 
+        </Directory> 
+
+</VirtualHost>
+
