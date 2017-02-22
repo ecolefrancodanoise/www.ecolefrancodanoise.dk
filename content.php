@@ -30,10 +30,6 @@
 		                	include("inc/menu_struct_user.inc");
 				        print_menu($ms, $page_name); //here the menu is actually printed
 				      ?>
-                        <div id="translate-button">
-                        <a href="http://ecolefrancodanoise.dk"><img src="<?echo $bp?>/images/tricolore.png" alt="Site en francais"></a>
-                        </div>
-
 			</div>
 
 
