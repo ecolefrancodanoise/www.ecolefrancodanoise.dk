@@ -1,4 +1,4 @@
-17 (environ) pratiques
+17 principes pratiques
 ======================
 
 Au fil des années, nous avons fait l'expérience qu'il est possible, avec des principes simples, d'établir rapidement un environnement qui fonctionne bien, qui est incluant/tolérant ("rummelig") et propice au développement personnel. Aussi, lorsque le groupe d'enfants fonctionne, c'est une des expériences des plus gratifiantes qui soit.
@@ -33,7 +33,7 @@ Généralement, le fait d'avoir établi un ensemble de règles, une sorte d'ense
 
 Une fois que les règles ont été établies, il faut qu'elles soient prises au sérieux. C'est ici le rôle de l'adulte d'assurer que la justice soit maintenue. Cela consiste notamment à reconnaître les petits détails qui peuvent être importants pour l'enfant et à régler les conflits de telle façon que les enfants reconnaissant également que les solutions sont justes.
 
-En revanche, l'adulte n'a pas de mandat pour imposer ses propres règles. Eviter impérativement les  arguments tels que : "Parce que je le dis!".
+En revanche, l'adulte n'a pas de mandat pour imposer ses propres règles. Eviter autant que possible les  arguments tels que : "Parce que je le dis!".
 
 
 4) Bruit et calme
@@ -51,6 +51,7 @@ En règle générale, chercher à obtenir le contact voulu en déployant le moin
 ---------------------------
 Chercher à fournir des explications simples. Une explication simple est une forme de réduction d'information de laquelle le psychisme humain (et les êtres vivants en général) est fondamentalement dépendante et un atout fantastique pour renforcer les relations.
 
+Justifier si nécessaire pourquoi un sujet vaut une explication (l'investissement).
 
 6) Avoir des attentes élevées
 -----------------------------
@@ -98,6 +99,8 @@ Il est préférable que les enfants s'engagent à finir un travail donné plutô
 --------------------
 En général, enfants comme adultes n'apprécient pas d'être commandés. S'habituer à donner plusieurs alternatives, par exemple dans le choix des exercices. Éviter en revanche le "que désirez vous faire aujourd'hui?" qui de toute façon sera difficilement assumable.
 
+Noter et respecter que certains enfants, et adultes, préfèrent être dirigés.
+
 
 13) Corriger les erreurs le plus tôt possible - donner et demander du feedback
 ------------------------------------------------------------------
@@ -105,7 +108,7 @@ Ne pas laisser les enfants photographier une erreur pendant trop longtemps. Évi
 
 À la fin d'un cour, il est conseillé de faire une évaluation rapide, par exemple en demandant combien le cour était motivant/amusant (échelle 0-5) et combien il était instructif (0-5), s'il y a des choses à améliorer pour la fois d'après et si quelquechose était particulèrement bien et donc à garder. Dans un groupe plus grand, le sondage quantitatif peut être fait par levée de (deux) mains, et les questions concernant le négatif/positif ciblées sur les scores extrêmes.
 
-Ne jamais juger la personne, toujours l'acte.
+Ne jamais juger la personne, seulement l'acte.
 
 
 14) Ne pas voler le jeu des enfants

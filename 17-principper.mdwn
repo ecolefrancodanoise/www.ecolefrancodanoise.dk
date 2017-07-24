@@ -36,7 +36,7 @@ Mere generelt kan man sige, at det at have formuleret nogle regler - et slags st
 
 Når man først har etableret reglerne, skal man mene dem alvorligt. Her er det den voksnes rolle at sørge for at retfærdigheden opretholdes - man er som voksen nødt til at anerkende de små detaljer, som kan være vigtige for det enkelte barn, og løse konflikter, således at børnene (også) synes, at det er retfærdigt.
 
-Til gengæld har den voksne ikke mandat til at påtvinge sine egne regler - undgå f.eks. helt og aldeles argumenter som "Fordi jeg siger det!".
+Til gengæld har den voksne ikke mandat til at påtvinge sine egne regler - undgå f.eks. i videst mulig udstrækning argumenter som "Fordi jeg siger det!".
 
 
 4) Støj og ro
@@ -54,6 +54,8 @@ Stræb generelt efter at opnå den ønskede kontakt med så lidt energi som muli
 5) Enkle forklaringer
 ---------------------
 Prøv at holde forklaringer så enkle som muligt. Den enkle forklaring er en slags informationsreduktion, som den menneskelige psyke (og levende væsener generelt) er fundamentalt afhængig af og er fantastisk relationsopbyggende.
+
+Husk om nødvendigt at motivere, hvorfor et givet er emne er en forklaring (indsatsen) værd.
 
 
 6) Høje forventninger
@@ -99,6 +101,8 @@ Få hellere børnene til at tage ansvar for at løse en opgave, end for at sidde
 ----------------------
 Som regel bryder hverken børn eller voksne sig om at få fortalt hvad de skal gøre. Giv derfor som regel barnet flere muligheder, f.eks. i valget af opgaver. Undgå til gengæld den helt frie "hvad skal vi lave i dag" - den kan sjældent reelt honoreres.
 
+Bemærk, og respektér, at visse børn - og voksne - foretrækker at følge instrukser fremfor at skulle vælge.
+
 
 13) Ret fejl så hurtigt som muligt - giv og efterspørg feedback
 ---------------------------------------------------------------
@@ -106,7 +110,7 @@ Lad ikke børnene affotografere fejl alt for længe. Undgå at afbryde et godt f
 
 Efter et endt forløb - f.eks. sidst på formiddagen - bør man bede børnene foretage en (hurtig) evaluering. Dette kan f.eks. ske ved, at man på en skala fra 0 til 5 spørger om hvor sjovt forløbet var, hvor lærerigt det var, om noget skal forbedres til næste gang og om der var noget, der var særligt værd at bevare. Har man med en lidt større gruppe at gøre, kan lave den kvantitative (0-5) evaluering med dobbelt håndsoprækning (venstre hånd - hvor sjovt, højre hånd - hvor lærerigt) og efterfølgende spørge ind til de særligt negative eller positive scorer.
 
-Kritisér aldrig personen, altid handlingen.
+Kritisér aldrig personen, kun handlingen.
 
 
 14) Stjæl ikke børnenes leg
