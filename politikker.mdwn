@@ -24,17 +24,18 @@ Børnegruppen og Undervisning
 
 Undervisningsformen er Freinet-inspireret, mere specifikt egenmotivationsbaseret og med særligt fokus på at skabe selvstændige og ressourcestærke individer med den nødvendige indsigt og handlekraft til at deltage i og opbygge det demokratiske samfund. Skolens normale form for undervisning tager således udgangspunkt i børnenes egne projekter, helst i samspil med Lehren-durch-Lehrnen aktiviteter. Klasseundervisning kan også finde sted, navnligt for de børn, der ikke er tilstrækkeligt trænede til at drive deres egen læring eller ganske enkelt af natur blot foretrækker den styring, der kommer af klasseundervisningsformen.
 
-Vi har ad åre samlet en del erfaring i vores (ca.) 17 praktiske pædagogiske tips. ​http://www.ecolefrancodanoise.dk/17-principper
+Vi har ad åre samlet en del erfaring i vores (ca.) 17 praktiske pædagogiske tips. http://www.ecolefrancodanoise.dk/17-principper
 
 Børn med særlige behov
 ----------------------
 
 Vi mener, at skolen, som samfundsinstitution, har pligt til at løfte en inklusionsopgave. Det betyder, at vi aktivt ønsker at inkludere børn, der ikke nødvendigvis passer ind andre steder. Dog har vi i praksis oplevet, at en vellykket integration forudsætter, at:
 
-barnet udviser vilje til at være på skolen, herunder udviser ærlighed.
-barnet agerer for, at skolen er et rart og udviklende sted at være for alle.
-ingen af forældrene aktivt modarbejder skolen.
-barnet ikke er til fare for andre børn.
+* barnet udviser vilje til at være på skolen, herunder udviser ærlighed.
+* barnet agerer for, at skolen er et rart og udviklende sted at være for alle.
+* ingen af forældrene aktivt modarbejder skolen.
+* barnet ikke er til fare for andre børn.
+
 Vi vurderer løbende, afhængigt af børne- og personalegruppens sammensætning, hvorvidt nye børn med særlige behov kan optages og om indskrevne børn fortsat kan rummes.
 
 Personale
@@ -55,6 +56,7 @@ Vores overordnede forventning til de ansatte er, at de kan indgå i og dyrke en 
   * få, men dygtige, medarbejdere
   * tilstedeværelseskrav (vidensarbejde / lærende fællesskab)
 * velfungerende gruppedynamik & læringsprocesser
+  * trygt miljø
   * åben feedbackkultur
   * tilstedeværelseskrav - fleksibilitet / ingen vikarer,
 * klare målsætninger & kontinuerlige forbedringer
@@ -102,8 +104,22 @@ Vi er interesserede i at ansætte forældre mhp. at styrke det participatoriske 
 
 For at sikre skolens funktion som eksempel, må økonomi ikke være en hindring for at få optaget sit barn, hvorfor vi anvender Københavns kommunes fripladsregler for daginstitutioner og ikke Fordelingssekretariatets. Konkret betyder dette, at skolen egenfinanserer ca. 2/3 af fripladsordningen.
 
-Vi tilstræber ifm. bestyrelsens sammensætning, i prioriteret rækkefølge at have:
+Idéen med det participatoriske princip er ikke at udnytte forældrene som billig (gratis) arbejdskraft, f.eks. til istandsættelse og rengøring.
+
+Vi prioriterer ifm. bestyrelsens sammensætning alsidighed, engagement og dygtighed og vægter konkret følgende elementer:
 
 * repræsentanter fra begge kulturer
 * dygtige medlemmer
 * en ligelig kønsfordeling
+
+IT
+--
+
+Ved valg af teknologi prioriterer vi fri software, dette fordi:
+* vi vil undgå at låse organisationen fast i stagnerede systemer
+* vi ønsker at indgå i den intense udvekslings- og mentorkultur, der karakteriserer open source miljøer
+* håndtering af softwarelicenser er et unødvendigt overhead
+
+I fald frie løsninger ikke er tilgængelige for at løse en nødvendig opgave, prioriterer vi løsninger, der så godt som muligt harmonerer med ovenstående punkter.
+
+Computerspil, herunder også spil på telefoner og tablets, er ikke tilladt på skolen i åbningstiden, fordi de virker opmærksomhedsforstyrrende og endda afhængigsskabende.
