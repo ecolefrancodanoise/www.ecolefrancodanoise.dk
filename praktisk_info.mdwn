@@ -24,49 +24,49 @@ Indskrivning: 1200,-
 Hvis I ønsker at tilmelde jeres barn, så udfyld venligst [tilmeldingsblanketten](http://blog.ecolefrancodanoise.dk/wp-content/uploads-efd/2010/10/fiche-inscription-efd.pdf) , og send den til ovenstående adresse, eller scan+mail den til nicolas@ange.dk, telefon 4141 8228  .
 
 
-Ferie 2016-2017
+Ferie 2017-2018
 =====
 <table border="0px">
 <tbody>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 27-06-2016 til d. 08-08-2016</td>
+<td align="right">fra d. 26-06-2017 til d. 13-08-2017</td>
 </tr>
 <tr>
 <td align="left">Eferårsferie</td>
-<td align="right">fra d. 17-10-2016 til d. 21-10-2016</td>
+<td align="right">fra d. 14-10-2017 til d. 22-10-2017</td>
 </tr>
 <tr>
 <td align="left">Juleferie</td>
-<td align="right">fra d. 22-12-2016 til d. 03-01-2017</td>
+<td align="right">fra d. 22-12-2017 til d. 02-01-2018</td>
 </tr>
 <tr>
 <td align="left">Vinterferie</td>
-<td align="right">fra d. 13-02-2017 til d. 17-02-2017</td>
+<td align="right">fra d. 10-02-2018 til d. 18-02-2018</td>
 </tr>
 <tr>
 <td align="left">Påskeferie</td>
-<td align="right">fra d. 10-04-2017 til d. 17-04-2017</td>
+<td align="right">fra d. 24-03-2018 til d. 02-04-2018</td>
 </tr>
 <tr>
-<td align="left">Store Bededag</td>
-<td align="right">12-05-2017</td>
+<td align="left">Store Bededagsferie</td>
+<td align="right">fra d. 27-04-2018 til d. 29-04-2018</td>
 </tr>
 <tr>
-<td align="left">Dagen efter Kristi Himmelfart</td>
-<td align="right">26-05-2017</td>
+<td align="left">Kristi Himmelfartsferie</td>
+<td align="right">fra d. 10-05-2018 til d. 13-05-2018</td>
 </tr>
 <tr>
-<td align="left">2. pinsedag</td>
-<td align="right">05-06-2017</td>
+<td align="left">Pinseferie</td>
+<td align="right">fra d. 19-05-2018 til d. 21-05-2018</td>
 </tr>
 <tr>
 <td align="left">Grundlovsdag</td>
-<td align="right">05-06-2017</td>
+<td align="right">05-06-2018</td>
 </tr>
 <tr>
 <td align="left">Sommerferie</td>
-<td align="right">fra d. 26-06-2017 til d. 13-08-2017</td>
+<td align="right">fra d. 28-06-2018 til d. 12-08-2018</td>
 </tr>
 </tbody>
 </table>
