@@ -7,17 +7,18 @@ Skolen blev fra starten tænkt som værende
 
 * multikulturel: i en globaliseret verden virker det som en åbenlys chance for den enkelte at udnytte de styrker, forskellige kulturer har formået at udvikle i løbet af århundreder. Dertil kommer, at andre kulturer giver et nyt perspektiv - det multikulturelle menneske kan betragte sig selv både inde- og udefra.
 
-* aldersintegreret: undervisningens egenmotivationsbaserede og projektorienterede tilgang fordrer, at børnegruppen løbende definerer og redefinerer undergrupper, afhængigt af interesser og evner. Nøgleord: Freinet- og Montessoripædagogik, mentorlæring, inquiry-based learning, Lehren durch Lernen, Feynman-metoden, École mutuelle.
+* aldersintegreret: undervisningens egenmotivationsbaserede og projektorienterede tilgang fordrer, at børnegruppen løbende definerer og redefinerer undergrupper, afhængigt af interesser og evner. Nøgleord: Freinet- og Montessoripædagogik, mentorlæring, inquiry-based learning, Lernen durch Lehren, Feynman-metoden, École mutuelle.
 
 * participatorisk: for at sikre undervisningens relevans, virkede det åbenlyst at eksponere børnegruppen for problemstillinger ude fra det virkelige liv. Dette gøres dels ved at tage på udflugter, dels ved løbende at invitere verden på besøg.
 
 Skolens rolle som institution i samfundet er helt central - ingen anden funktion i samfundet har en tilsvarende effekt på det generelle kompetenceniveau, og dermed på væksten. Derudover udgør skolen det centrale sted, hvor kulturen og samfundet generelt kan påvirkes.
 
-Følgeligt giver det mening at allokere de dygtigste ressourcer til faget. Den dansk-franske Skole er således ikke en almindelig skole og har ingen umiddelbar intention om at blive det. Skolen har til mission at skabe en fortællling om, hvad der skal til for at man som skole kan skabe usædvanligt gode resultater, både kvantitativt og kvalitativt, dette indenfor normale økonomiske rammer.
+Følgeligt giver det mening at allokere de dygtigste ressourcer til faget, hvilket ikke uventet har vist sig at være projektets primære udfordring. Den dansk-franske Skole er således ikke en almindelig skole og har ingen umiddelbar intention om at blive det. Skolen har til mission at skabe en fortællling om, hvad der skal til for at man som skole kan skabe usædvanligt gode resultater, både kvantitativt og kvalitativt, dette indenfor normale økonomiske rammer.
 
 Denne fortælling tager udgangspunkt i, at den enkelte har ret, pligt og vilje til at drive sine talenter til deres potentiale. Dette fremmer dygtighed, som igen efter vores opfattelse er en forudsætning for tilpasningsparathed og for den enkeltes relevans i det 21. århundredes videnssamfund.
 
 En del af de principper, der ligger til grund for skolen, har historisk fungeret for store skoler, f.eks. L'école mutuelle.
+
 
 Børnegruppen og Undervisning
 ----------------------------
@@ -33,10 +34,11 @@ Vi mener, at skolen, som samfundsinstitution, har pligt til at løfte en inklusi
 
 * barnet udviser vilje til at være på skolen, herunder udviser ærlighed.
 * barnet agerer for, at skolen er et rart og udviklende sted at være for alle.
-* ingen af forældrene aktivt modarbejder skolen.
+* ingen af forældrene modarbejder skolen.
 * barnet ikke er til fare for andre børn.
 
 Vi vurderer løbende, afhængigt af børne- og personalegruppens sammensætning, hvorvidt nye børn med særlige behov kan optages og om indskrevne børn fortsat kan rummes.
+
 
 Personale
 ---------
@@ -74,6 +76,7 @@ Skole og børnehave opfattes som en helhed. Vi opfatter adskillelsen mellem pæd
 
 Skolen har ikke noget separat lærerværelse, personalet færdes i skolen på lige fod med børnene. (I praksis kræver det den ro i lokalerne, som er et af skolens karakteristika.)
 
+
 Madpolitik
 ----------
 
@@ -92,6 +95,7 @@ Med henblik på at sikre, at børnene får tilegnet sig et sundt ernæringsmøns
 * personalet deltager i frokosten, således at de kan assistere de børn, der måtte have brug for det, een-til-een.
 * maden tilberedes af egen kok i huset
 * maden er certificeret økologisk
+
 
 Forældre
 --------
@@ -114,14 +118,15 @@ Vi prioriterer ifm. bestyrelsens sammensætning alsidighed, engagement og dygtig
 * dygtige medlemmer
 * en ligelig kønsfordeling
 
+
 IT
 --
 
 Ved valg af teknologi prioriterer vi fri software, dette fordi:
 * vi vil undgå at låse organisationen fast i stagnerede systemer
 * vi ønsker at indgå i den intense udvekslings- og mentorkultur, der karakteriserer open source miljøer
-* håndtering af softwarelicenser er et unødvendigt overhead
+* softwarelicenser medfører ikke kun en omkostning i sig selv, men også en væsentlig kompleksitet i organisationen
 
 I fald frie løsninger ikke er tilgængelige for at løse en nødvendig opgave, prioriterer vi løsninger, der så godt som muligt harmonerer med ovenstående punkter.
 
-Computerspil, herunder også spil på telefoner og tablets, er ikke tilladt på skolen i åbningstiden, fordi de virker opmærksomhedsforstyrrende og endda afhængigsskabende.
+Computerspil, herunder også spil på telefoner og tablets, er ikke tilladt på skolen i åbningstiden, fordi de virker opmærksomhedsforstyrrende og afhængighedsskabende.
