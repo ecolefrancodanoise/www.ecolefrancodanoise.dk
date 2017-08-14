@@ -27,6 +27,7 @@ Undervisningsformen er Freinet-inspireret, mere specifikt egenmotivationsbaseret
 
 Vi har ad åre samlet en del erfaring i vores (ca.) 17 praktiske pædagogiske tips. http://www.ecolefrancodanoise.dk/17-principper
 
+
 Børn med særlige behov
 ----------------------
 
@@ -38,6 +39,14 @@ Vi mener, at skolen, som samfundsinstitution, har pligt til at løfte en inklusi
 * barnet ikke er til fare for andre børn.
 
 Vi vurderer løbende, afhængigt af børne- og personalegruppens sammensætning, hvorvidt nye børn med særlige behov kan optages og om indskrevne børn fortsat kan rummes.
+
+
+Billeder af børnene
+-------------------
+
+For at kunne kommunikere frit omkring skolens virke er det vigtigt at for os at kunne publicere billeder og videoer, hvor børnene ofte vil fremgå. Ved indskrivningen bedes forældrene derfor tage stilling til, om de kan acceptere skolens retningslinjer for publicering af billed- og videomaterialer. Disse retningslinjer er:
+ * barnets navn associeres aldrig med billedet.
+ * billeder, der kan virke pinlige eller på anden fremstille barnet i et dårligt lys, publiceres ikke.
 
 
 Personale
@@ -130,3 +139,4 @@ Ved valg af teknologi prioriterer vi fri software, dette fordi:
 I fald frie løsninger ikke er tilgængelige for at løse en nødvendig opgave, prioriterer vi løsninger, der så godt som muligt harmonerer med ovenstående punkter.
 
 Computerspil, herunder også spil på telefoner og tablets, er ikke tilladt på skolen i åbningstiden, fordi de virker opmærksomhedsforstyrrende og afhængighedsskabende.
+
