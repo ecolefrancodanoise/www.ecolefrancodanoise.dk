@@ -33,7 +33,7 @@ Ferie 2017-2018
 <td align="right">fra d. 26-06-2017 til d. 13-08-2017</td>
 </tr>
 <tr>
-<td align="left">Eferårsferie</td>
+<td align="left">Efterårsferie</td>
 <td align="right">fra d. 14-10-2017 til d. 22-10-2017</td>
 </tr>
 <tr>
