@@ -1,0 +1,53 @@
+<html>
+<head>
+<script src="d3.v3.min.js" charset="utf-8"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+</head>
+
+<body>
+<p>
+    <label for="populationSize">
+            Population Size : <span id="populationSize-value">10</span>
+    </label>
+    <input type="range" min="1" max="20" id="populationSize">
+
+    <label for="simulationSpeed">
+            Simulation Speed : <span id="simulationSpeed-value">10</span>
+    </label>
+    <input type="range" min="1" max="100" id="simulationSpeed" value="10">
+
+    <label for="nbIterations">
+            Iterations : <span id="nbIterations-value">200</span>
+    </label>
+    <input type="range" min="100" max="5000" id="nbIterations" value="200">
+</p>
+<div id="valueVsHonestyGraph" class="mediumgraph"></div>
+<div id="trustVsHonestyGraph" class="mediumgraph"></div>
+<div id="circulargraph"></div>
+
+<h3>A few words on the model</h3>
+<p>
+The visualization illustrates a model developed at The Danish-French School of Copenhagen that shows an exponential relationship of value creation versus trust/honesty.
+</p>
+<p>
+It works in the following way: a population consisting of a number of individuals undergo a number of transactions (iterations). Each individual is described by its capital, honesty and its trust to each of the other individuals. Each transaction occurs between two individuals A and B in the following way:
+<ul>
+	<li>A invests a value in B, where value = capital of A x trust between A and B</li>
+	<li>B generates some added value from the investment</li>
+	<li>a die is rolled and and is compared to the honesty of B: B either returns the investment (successful transaction) or keeps the full investment (unsuccessful transaction)</li>
+	<li>in case of a successful transaction, the trust between A and B is increased. Conversely it is decreased in case of an unsuccessful transaction</li>
+</ul>
+</p>
+<p>
+It quite clearly illustrates that for a group of individuals, adopting an honest and trustful culture is a winning strategy.
+</p>
+</body>
+
+<script language="javascript" type="text/javascript" src="simulation.js"></script>
+<script language="javascript" type="text/javascript" src="livegraph.js"></script>
+<script language="javascript" type="text/javascript" src="circulargraph.js"></script>
+<script language="javascript" type="text/javascript" src="dashboard.js"></script>
+
+<link href="original.css" rel="stylesheet" type="text/css">
+
+</html>

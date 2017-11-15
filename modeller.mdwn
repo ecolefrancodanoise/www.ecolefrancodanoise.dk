@@ -47,7 +47,7 @@ Den udtrykker, at en leg, et spil og aktiviteter i almindelighed, er sjovere, n�
 
 
 Relativ vs. absolut succesopfattelse
------------------------------------
+------------------------------------
 En social kompetence, som vi lægger særlig vægt på er, at kunne glædes over andres succes. Dette kræver en aktiv indsats fra lærernes side, da den naturlige individuelle succesopfattelse som regel foregår relativt til det umiddelbare nærmiljø.  Med andre ord vil ens egen succes ud fra en lokal betragtning opfattes ækvivalent med den andens fiasko, jf. det gamle mundheld "egen succes er godt, men andres fiasko er skam heller ikke at foragte".
 
 En sådan jantelovsmekanisme er i sagens natur ikke fremmende for gruppens hverken personlige eller faglige udvikling.
@@ -59,6 +59,12 @@ Måden at omgå denne forholdsvis hyppigt forekommende mekanisme på er:
  * opfatte den dygtigere som en kilde til læring
  * opfatte den dygtigere som en hold-medspiller
 
-I denne sammenhæng er det værd at bemærke, at skolens aldersintegrerede organisering gør det uhensigtsmæssigt for børnene at positionere sig stift hierarkisk ift. hinanden. Dette giver det enkelte barn en stor frihed ift. fortolkningen af de andres succeser.
+I denne sammenhæng er det værd at bemærke, at skolens aldersintegrerede organisering gør det uhensigtsmæssigt for børnene at positionere sig stift hiearkisk ift. hinanden. Dette giver det enkelte barn en stor frihed ift. fortolkningen af de andres succeser.
 
+
+Ærlighed og tillid som vindende strategi
+----------------------------------------
+Givet nogle forholdsvis åbenbare forudsætninger viser det sig, at det kan betale sig at agere ærligt og tillidsfuldt i den forstand at den vækst man vil opleve [afhænger eksponentielt deraf](dokumenter/trustmodel/index.html).
+
+![Vækst versus ærlighed/tillid](../images/population-value-vs-honesty.png)
 
