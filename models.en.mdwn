@@ -1,0 +1,71 @@
+Models
+======
+
+At the Danish-French School we have developed a number of practical models over the years, which make it possible for us to
+
+ * communicate accurately with the staff, with the children, with the parents, etc.
+ * formulate clear goals and strategies for children and adults learning and other personal development
+ * continuously keep expectations tuned thanks to a clear basic structure
+
+The Common Model
+----------------
+We believe that the focus on a versatile personal development is one of the great strengths in the Nordic education model. Nurturing the self-esteem of the child and facilitating the construction of trust relations creates a basic life energy, motivation, curiosity that form the fuel for the versatile personal development.
+
+But the development does not only take place in the kindergarten. It also takes place in school, and later - in fact, all of life. The school's personal development model is thus common to the kindergarten and school.
+
+Conversely, the school's professional development model is also used for kindergarten children. Children are naturally curious and ask questions that deserve some well-answered answers. Such a response often requires a high level of professionalism, for instance of a technical, philosophical, scientific nature etc.
+
+The school's work is thus structured around a common model, common to personal / social and professional development, and common to the kindergarten and school. The model is inspired by the Copenhagen Municipal Educational Perspective Plan [PP2009], the "Common Objectives" of the Ministry of Children and Education, as well as the so-called Blueschool model. In addition, since its start in August 2010, it has been continuously matured and expanded.
+
+A graphical representation of the model is shown below.
+
+![The common model](../images/common-model-en.png)
+
+The image seeks to illustrate how a person with his/her life energy (center) and his/her versatile personal potential (the rays) fill the space, reinforced by the professional training (the outer circle), thus defining his/her identity.
+
+
+The interaction between social and professional capital
+-------------------------------------------------------
+
+At school, we perceive personal and professional development as being not only beneficial to each other, but really necessary.
+
+The school's learning environment consists of a group of dynamic people who are involved in many different, often complex relationships, and learn from each other.
+
+Being able to navigate in this complex social space, being able to receive and disseminate knowledge, spread a good mood, creating enthusiasm and motivating is crucial also for professional learning.
+
+Conversely, professional skill gives success experiences, a sense of being able to, which in turn nurtures the environment with joy and enthusiasm. Helping each other leads to common success experiences, which in turn strengthen social ties.
+
+![Professional and social capital can be mutually reinforcing](../images/kapitalmodel.png)
+
+It's more fun when you can
+--------------------------
+
+A model related to the social / professional model is the more fun-when-man-can model.
+
+![Les p'tits philosophes, Pomme d'Api, Bayard Education](../images/pourquoi-des-efforts.jpg)
+
+It expresses that a game and activities in general are more fun when you master the skills involved. It requires - and justifies - that you practice.
+
+
+Relative vs. absolute perception of success
+-------------------------------------------
+
+A social competence that we attach particular importance to is to be able to appreciate the success of others. This requires active action by the teachers, as the natural individual perception of success usually takes place relative to the immediate, local environment. In other words, one's own success will, from a local consideration,  be perceived to be equivalent to the failure of the other, cf. the old (Danish) proverb. "Your own success is good, but another's failure is not despise either."
+
+Such a crab mentality mechanism is by nature not conducive to the group's personal or professional development.
+
+The way to circumvent this relatively common mechanism is:
+
+ * that the group explicitly discusses and decides how to handle the success of others
+ * absolute succession, ie Relate successes to what is globally applicable in society and in the world, not only to the neighbor
+ * perceive it more proficient as a source of learning
+ * perceive it more proficient as a team-mate
+
+In this context, it is worth noting that the school's age-integrated organization makes it inappropriate for the children to position themselves hiearchically with respect to each other. This gives the individual child a great freedom in terms of the interpretation of the others' successes.
+
+Honesty and trust as a winning strategy
+---------------------------------------
+
+Given some relatively obvious assumptions, it appears that it is worthwhile to act honestly and trustingly in the sense that the growth you can expect to experience [depends exponentially on it](dokumenter/trustmodel/index.html).
+
+![Growth vs. trust/honesty](../images/population-value-vs-honesty.png)
