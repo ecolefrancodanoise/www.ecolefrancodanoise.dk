@@ -128,6 +128,7 @@ When choosing technology, we prioritize free software, because:
  * We want to be part of the intense exchange and mentorship culture that characterizes open source environments
  * Software licenses not only cause a cost in themselves, but also a significant added complexity in the organization
  * In case free solutions are not available to solve a required task, we prioritize solutions that are best matched with the above points.
+ * We consider it proper etiquette for an institution to regularly sponsor free (as in freedom) projects that we make use of.
 
 Computer games, including games on phones and tablets, are not allowed at school during the opening hours, because we have observed that they cause attention deficits and addiction.
 

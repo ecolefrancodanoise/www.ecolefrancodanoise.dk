@@ -137,6 +137,7 @@ Ved valg af teknologi prioriterer vi fri software, dette fordi:
 * vi vil undgå at låse organisationen fast i stagnerede systemer
 * vi ønsker at indgå i den intense udvekslings- og mentorkultur, der karakteriserer open source miljøer
 * softwarelicenser medfører ikke kun en omkostning i sig selv, men også en væsentlig kompleksitet i organisationen
+* vi opfatter det som god etikette for en institution løbende sponsorere frie projekter, som man gør brug af
 
 I fald frie løsninger ikke er tilgængelige for at løse en nødvendig opgave, prioriterer vi løsninger, der så godt som muligt harmonerer med ovenstående punkter.
 
