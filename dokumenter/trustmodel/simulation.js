@@ -1,3 +1,7 @@
+/**
+ * Author: Nicolas Guilbert
+ */
+
 var defaultTrust = .4;
 var transferredValueMultiplier = 2.6;
 var transferredValueSplit = .2;
