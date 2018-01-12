@@ -6,6 +6,9 @@ var defaultTrust = .4;
 var transferredValueMultiplier = 2.6;
 var transferredValueSplit = .2;
 
+/*
+ * Class representing an individual with its value, honesty and trust relations
+ */
 var individual = function(id, honestyCoeff) {
     this.id = id;
     this.value = 10.0;
@@ -17,7 +20,9 @@ var individual = function(id, honestyCoeff) {
         }, 0);
     }
 }
-
+/*
+ * Function to create a population of inidividuals
+ */
 var initializeIndividuals = function(honestyCoeff, populationSize) {
     var individuals = [];
     for (var i = 0; i < populationSize; ++i) {
@@ -25,7 +30,10 @@ var initializeIndividuals = function(honestyCoeff, populationSize) {
     }
     return individuals;
 }
-
+/*
+ * Function returning the change ocurring in a transaction
+ * Returns the change in value for both indviduals and change in their trust relationship.
+ */
 var computeRelation = function(sourceIndex, targetIndex, individuals) {
     var sourceIndividual = individuals[sourceIndex];
     var targetIndividual = individuals[targetIndex];
@@ -44,7 +52,10 @@ var computeRelation = function(sourceIndex, targetIndex, individuals) {
                 newTrustValue : trustValue * ((1 + trustValue * 0.1)) / (1 + 0.1) };
     }
 } 
-
+/*
+ * Function to calculate the evolution of a population.
+ * Returns the full history.
+ */
 var runSimulation = function(honestyCoeff, populationSize, nbIterations) {
     var individuals = initializeIndividuals(honestyCoeff, populationSize);
     var individualsArchive = [individuals];
