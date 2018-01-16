@@ -9,7 +9,7 @@ var transferredValueSplit = .2;
 /*
  * Class representing an individual with its value, honesty and trust relations
  */
-var individual = function(id, honestyCoeff) {
+var Individual = function(id, honestyCoeff) {
     this.id = id;
     this.value = 10.0;
     this.relations = Array.apply(null, Array(populationSize)).map(Number.prototype.valueOf, defaultTrust);
@@ -26,7 +26,7 @@ var individual = function(id, honestyCoeff) {
 var initializeIndividuals = function(honestyCoeff, populationSize) {
     var individuals = [];
     for (var i = 0; i < populationSize; ++i) {
-        individuals.push(new individual(i, honestyCoeff));
+        individuals.push(new Individual(i, honestyCoeff));
     }
     return individuals;
 }
