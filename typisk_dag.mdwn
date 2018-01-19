@@ -3,17 +3,17 @@ En typisk dag
 
 Dagsskema:
 ----------
-0830-0900: Forberedelse af morgenmødet
+0820-0900: Læsetime
 
 0900-0910: Morgenmøde
 
-0915-1050: Undervisning / Projektarbejde
+0915-1050: Undervisning / Træning
 
 1100-1120: Præsentationer
 
-1130-1230: Frokost
+1130-1215: Frokost
 
-1300-1430: Udendørs aktiviteter
+1215-1300: Udendørs aktiviteter
 
-1430-1700: Projektarbejde
+1300-1630: Projektarbejde
 
