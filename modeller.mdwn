@@ -46,8 +46,8 @@ En model, der relaterer sig til social/faglig kapital-modellen er Det-er-sjovere
 Den udtrykker, at en leg, et spil og aktiviteter i almindelighed, er sjovere, når man mestrer de involverede færdigheder. Det kræver - og retfærdiggør - at man øver sig.
 
 
-Relativ vs. absolut succesopfattelse
-------------------------------------
+Relativ vs. absolut succesopfattelse ("Togmodellen")
+----------------------------------------------------
 En social kompetence, som vi lægger særlig vægt på er, at kunne glædes over andres succes. Dette kræver en aktiv indsats fra lærernes side, da den naturlige individuelle succesopfattelse som regel foregår relativt til det umiddelbare nærmiljø.  Med andre ord vil ens egen succes ud fra en lokal betragtning opfattes ækvivalent med den andens fiasko, jf. det gamle mundheld "egen succes er godt, men andres fiasko er skam heller ikke at foragte".
 
 En sådan jantelovsmekanisme er i sagens natur ikke fremmende for gruppens hverken personlige eller faglige udvikling.
@@ -58,6 +58,7 @@ Måden at omgå denne forholdsvis hyppigt forekommende mekanisme på er:
  * absolut succesopfattelse, dvs. relatere succes'er til hvad der er globalt gældende i samfundet og i verden, ikke kun hos naboen
  * opfatte den dygtigere som en kilde til læring
  * opfatte den dygtigere som en hold-medspiller
+ * aktivt hjælpe mindre erfarne / dygtige til at lykkes
 
 I denne sammenhæng er det værd at bemærke, at skolens aldersintegrerede organisering gør det uhensigtsmæssigt for børnene at positionere sig stift hiearkisk ift. hinanden. Dette giver det enkelte barn en stor frihed ift. fortolkningen af de andres succeser.
 

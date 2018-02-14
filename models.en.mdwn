@@ -47,8 +47,8 @@ A model related to the social / professional model is the more fun-when-man-can 
 It expresses that a game and activities in general are more fun when you master the skills involved. It requires - and justifies - that you practice.
 
 
-Relative vs. absolute perception of success
--------------------------------------------
+Relative vs. absolute perception of success (the "Train Model")
+---------------------------------------------------------------
 
 A social competence that we attach particular importance to is to be able to appreciate the success of others. This requires active action by the teachers, as the natural individual perception of success usually takes place relative to the immediate, local environment. In other words, one's own success will, from a local consideration,  be perceived to be equivalent to the failure of the other, cf. the old (Danish) proverb. "Your own success is good, but another's failure is not despise either."
 
@@ -60,6 +60,7 @@ The way to circumvent this relatively common mechanism is:
  * absolute succession, ie Relate successes to what is globally applicable in society and in the world, not only to the neighbor
  * perceive it more proficient as a source of learning
  * perceive it more proficient as a team-mate
+ * actively help the less experienced / proficient to succeed
 
 In this context, it is worth noting that the school's age-integrated organization makes it inappropriate for the children to position themselves hiearchically with respect to each other. This gives the individual child a great freedom in terms of the interpretation of the others' successes.
 
