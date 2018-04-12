@@ -24,8 +24,8 @@ Nøgletidspunkter
 
 
 Eksempel
---------
-En almindelig kan typisk se ud som følger:
+-------- 
+En almindelig dag kan typisk se ud som følger:
 
 
 0820-0900: Læsetime
