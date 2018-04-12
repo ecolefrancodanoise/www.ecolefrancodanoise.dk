@@ -1,8 +1,28 @@
 En typisk dag 
 =============
 
-Dagsskema:
-----------
+Dagsskema
+---------
+Skoledagen er organiseret omkring nogle nøgletidspunkter, hvor alle samles til fællesbesked eller andre aktiviter. Første møde er kl. 9, men børnene er velkomne til at komme inden, typisk fra kl. 8:20. Børnehaven/SFO'en er åben fra kl. 7.
+
+08:20 Læsetime
+
+09:00 Morgenmøde og eftergølgende undervisning / træning
+
+10:15 Andet undervisnings- og træningspas starter
+
+11:30 Frokost
+
+13:00 Undervisning eller andre aktiviteter starter
+
+14:15 Undervisning eller andre aktiviteter starter
+
+15:00 Undervisning eller andre aktiviteter starter
+
+
+En almindelig kan typisk se ud som følger:
+
+
 0820-0900: Læsetime
 
 0900-0910: Morgenmøde
